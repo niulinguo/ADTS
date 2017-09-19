@@ -57,6 +57,7 @@ Android Developer Technology Stack
 
 ### 事件总线框架
 * [greenrobot/EventBus](https://github.com/greenrobot/EventBus)
+* [square/otto](https://github.com/square/otto)
 
 ### hybrid框架
 * [alibaba/weex](https://github.com/alibaba/weex)
