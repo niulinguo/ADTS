@@ -22,6 +22,9 @@ Android Developer Technology Stack
 * [bumptech/glide](https://github.com/bumptech/glide)
 * [facebook/fresco](https://github.com/facebook/fresco)
 
+### 图片压缩
+* [Curzibn/Luban](https://github.com/Curzibn/Luban)
+
 ### JSON解析框架
 * [google/gson](https://github.com/google/gson)
 * [alibaba/fastjson](https://github.com/alibaba/fastjson)
@@ -75,7 +78,12 @@ Android Developer Technology Stack
 * [square/leakcanary](https://github.com/square/leakcanary)
 * [facebook/stetho](https://github.com/search?utf8=✓&q=stetho&type=)
 
+### Fragment框架
+* [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)
 
+### 工具类
+* [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+* [vondear/RxTools](https://github.com/vondear/RxTools)
 
 
 
