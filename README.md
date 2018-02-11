@@ -88,6 +88,6 @@ Android Developer Technology Stack
 
 ### Upgrade
 |名字|版本|
------
+|--|--|
 |[AlexLiuSheng/CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)|[ ![Download](https://api.bintray.com/packages/zkxy/maven/VersionCheckLib/images/download.svg) ](https://bintray.com/zkxy/maven/VersionCheckLib/_latestVersion)|
 
