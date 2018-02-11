@@ -96,4 +96,4 @@ Android Developer Technology Stack
 ### 开源项目
 |名字|版本|Star|
 |--|--|--|
-|gaoleiandroid1201/BiuBike||[![GitHub stars](https://img.shields.io/github/stars/gaoleiandroid1201/BiuBike.svg?style=plastic&label=Star) ](https://github.com/gaoleiandroid1201/BiuBike)|
+|[gaoleiandroid1201/BiuBike](https://github.com/gaoleiandroid1201/BiuBike)||[![GitHub stars](https://img.shields.io/github/stars/gaoleiandroid1201/BiuBike.svg?style=plastic&label=Star) ](https://github.com/gaoleiandroid1201/BiuBike)|
