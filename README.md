@@ -87,7 +87,13 @@ Android Developer Technology Stack
 * [vondear/RxTools](https://github.com/vondear/RxTools)
 
 ### Upgrade
-|名字|版本|Start|
+|名字|版本|Star|
 |--|--|--|
-|[AlexLiuSheng/CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)|[ ![Download](https://api.bintray.com/packages/zkxy/maven/VersionCheckLib/images/download.svg) ](https://bintray.com/zkxy/maven/VersionCheckLib/_latestVersion)||
-|[WVector/AppUpdate](https://github.com/WVector/AppUpdate)|[![Download](https://api.bintray.com/packages/qianwen/maven/update-app/images/download.svg) ](https://bintray.com/qianwen/maven/update-app/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/WVector/AppUpdate.svg?style=plastic&label=Star) ](https://github.com/WVector/AppUpdate)|
+|[AlexLiuSheng/CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
+|[ ![Download](https://api.bintray.com/packages/zkxy/maven/VersionCheckLib/images/download.svg) ](https://bintray.com/zkxy/maven/VersionCheckLib/_latestVersion)
+|[![GitHub stars](https://img.shields.io/github/stars/AlexLiuSheng/CheckVersionLib.svg?style=plastic&label=Star) ](https://github.com/AlexLiuSheng/CheckVersionLib)
+|
+|[WVector/AppUpdate](https://github.com/WVector/AppUpdate)
+|[![Download](https://api.bintray.com/packages/qianwen/maven/update-app/images/download.svg) ](https://bintray.com/qianwen/maven/update-app/_latestVersion)
+|[![GitHub stars](https://img.shields.io/github/stars/WVector/AppUpdate.svg?style=plastic&label=Star) ](https://github.com/WVector/AppUpdate)
+|
