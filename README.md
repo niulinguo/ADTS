@@ -92,3 +92,8 @@ Android Developer Technology Stack
 |[AlexLiuSheng/CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)|[ ![Download](https://api.bintray.com/packages/zkxy/maven/VersionCheckLib/images/download.svg) ](https://bintray.com/zkxy/maven/VersionCheckLib/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/AlexLiuSheng/CheckVersionLib.svg?style=plastic&label=Star) ](https://github.com/AlexLiuSheng/CheckVersionLib)|
 |[WVector/AppUpdate](https://github.com/WVector/AppUpdate)|[![Download](https://api.bintray.com/packages/qianwen/maven/update-app/images/download.svg) ](https://bintray.com/qianwen/maven/update-app/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/WVector/AppUpdate.svg?style=plastic&label=Star) ](https://github.com/WVector/AppUpdate)|
 |[yjfnypeu/UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin)|[![](https://jitpack.io/v/yjfnypeu/UpdatePlugin.svg)](https://jitpack.io/#yjfnypeu/UpdatePlugin)|[![GitHub stars](https://img.shields.io/github/stars/yjfnypeu/UpdatePlugin.svg?style=plastic&label=Star) ](https://github.com/yjfnypeu/UpdatePlugin)|
+
+### 开源项目
+|名字|版本|Star|
+|--|--|--|
+|gaoleiandroid1201/BiuBike||[![GitHub stars](https://img.shields.io/github/stars/gaoleiandroid1201/BiuBike.svg?style=plastic&label=Star) ](https://github.com/gaoleiandroid1201/BiuBike)|
