@@ -104,4 +104,4 @@ Android Developer Technology Stack
 ### 图片选择库
 |名字|版本|Star|
 |--|--|--|
-|[zhihu/Matisse](https://github.com/zhihu/Matisse)|[ ![Download](https://api.bintray.com/packages/zkxy/maven/Matisse/images/download.svg) ](https://bintray.com/zkxy/maven/Matisse/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/zhihu/Matisse.svg?style=plastic&label=Star) ](https://github.com/zhihu/Matisse)|
+|[zhihu/Matisse](https://github.com/zhihu/Matisse)|v0.4.3|[![GitHub stars](https://img.shields.io/github/stars/zhihu/Matisse.svg?style=plastic&label=Star) ](https://github.com/zhihu/Matisse)|
