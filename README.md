@@ -99,3 +99,4 @@ Android Developer Technology Stack
 |[gaoleiandroid1201/BiuBike](https://github.com/gaoleiandroid1201/BiuBike)||[![GitHub stars](https://img.shields.io/github/stars/gaoleiandroid1201/BiuBike.svg?style=plastic&label=Star) ](https://github.com/gaoleiandroid1201/BiuBike)|
 |[Rayhahah/EasySports](https://github.com/Rayhahah/EasySports)||[![GitHub stars](https://img.shields.io/github/stars/Rayhahah/EasySports.svg?style=plastic&label=Star) ](https://github.com/Rayhahah/EasySports)|
 |[Will-Ls/WeiYueKotlin](https://github.com/Will-Ls/WeiYueKotlin)||[![GitHub stars](https://img.shields.io/github/stars/Will-Ls/WeiYueKotlin.svg?style=plastic&label=Star) ](https://github.com/Will-Ls/WeiYueKotlin)|
+|[Will-Ls/WeiYue](https://github.com/Will-Ls/WeiYue)||[![GitHub stars](https://img.shields.io/github/stars/Will-Ls/WeiYue.svg?style=plastic&label=Star) ](https://github.com/Will-Ls/WeiYue)|
