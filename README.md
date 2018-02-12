@@ -113,6 +113,7 @@ Android Developer Technology Stack
 |[wequick/Small](https://github.com/wequick/Small)|v1.3.0-beta5|[![GitHub stars](https://img.shields.io/github/stars/wequick/Small.svg?style=plastic&label=Star) ](https://github.com/wequick/Small)|
 |[didi/VirtualAPK](https://github.com/didi/VirtualAPK)|[![Release Version](https://img.shields.io/badge/release-0.9.1-red.svg)](https://github.com/didi/VirtualAPK/releases)|[![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=plastic&label=Star) ](https://github.com/didi/VirtualAPK)|
 |[DroidPluginTeam/DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)|v0.9.1|[![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=plastic&label=Star) ](https://github.com/DroidPluginTeam/DroidPlugin)|
+|[asLody/VirtualApp](https://github.com/asLody/VirtualApp)||[![GitHub stars](https://img.shields.io/github/stars/asLody/VirtualApp.svg?style=plastic&label=Star) ](https://github.com/asLody/VirtualApp)|
 
 ### 调试框架
 |名字|版本|Star|
