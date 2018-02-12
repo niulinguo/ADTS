@@ -318,3 +318,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[google/cameraview](https://github.com/google/cameraview)||[![GitHub stars](https://img.shields.io/github/stars/google/cameraview.svg?style=plastic&label=Star)](https://github.com/google/cameraview)|
 |[xingda920813/HelloCamera2](https://github.com/xingda920813/HelloCamera2)||[![GitHub stars](https://img.shields.io/github/stars/xingda920813/HelloCamera2.svg?style=plastic&label=Star)](https://github.com/xingda920813/HelloCamera2)|
+
+### 支付
+|名字|版本|Star|
+|--|--|--|
+|[Cuieney/RxPay](https://github.com/Cuieney/RxPay)|v2.1.4|[![GitHub stars](https://img.shields.io/github/stars/Cuieney/RxPay.svg?style=plastic&label=Star)](https://github.com/Cuieney/RxPay)|
