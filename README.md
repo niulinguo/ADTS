@@ -24,6 +24,9 @@ Android Developer Technology Stack
 |[Horrarndoo/YiZhi](https://github.com/Horrarndoo/YiZhi)||[![GitHub stars](https://img.shields.io/github/stars/Horrarndoo/YiZhi.svg?style=plastic&label=Star) ](https://github.com/Horrarndoo/YiZhi)|
 |[wangzailfm/WanAndroidClient](https://github.com/wangzailfm/WanAndroidClient)||[![GitHub stars](https://img.shields.io/github/stars/wangzailfm/WanAndroidClient.svg?style=plastic&label=Star) ](https://github.com/wangzailfm/WanAndroidClient)|
 |[zhujun2730/WeiKanDian](https://github.com/zhujun2730/WeiKanDian)||[![GitHub stars](https://img.shields.io/github/stars/zhujun2730/WeiKanDian.svg?style=plastic&label=Star) ](https://github.com/zhujun2730/WeiKanDian)|
+|[JustWayward/BookReader](https://github.com/JustWayward/BookReader)||[![GitHub stars](https://img.shields.io/github/stars/JustWayward/BookReader.svg?style=plastic&label=Star) ](https://github.com/JustWayward/BookReader)|
+|[qdrzwd/VideoRecorder](https://github.com/qdrzwd/VideoRecorder)||[![GitHub stars](https://img.shields.io/github/stars/qdrzwd/VideoRecorder.svg?style=plastic&label=Star) ](https://github.com/qdrzwd/VideoRecorder)|
+|[BolexLiu/ApkBusBlog](https://github.com/BolexLiu/ApkBusBlog)||[![GitHub stars](https://img.shields.io/github/stars/BolexLiu/ApkBusBlog.svg?style=plastic&label=Star) ](https://github.com/BolexLiu/ApkBusBlog)|
 
 ### 图片选择库
 |名字|版本|Star|
@@ -207,6 +210,7 @@ Android Developer Technology Stack
 |[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)|v0.6.1|[![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg.svg?style=plastic&label=Star) ](https://github.com/FFmpeg/FFmpeg)|
 |[daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming)||[![GitHub stars](https://img.shields.io/github/stars/daniulive/SmarterStreaming.svg?style=plastic&label=Star) ](https://github.com/daniulive/SmarterStreaming)|
 |[CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|v4.0.0-beat1|[![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer.svg?style=plastic&label=Star) ](https://github.com/CarGuo/GSYVideoPlayer)|
+|[yangchaojiang/yjPlay](https://github.com/yangchaojiang/yjPlay)|v1.9.93|[![GitHub stars](https://img.shields.io/github/stars/yangchaojiang/yjPlay.svg?style=plastic&label=Star) ](https://github.com/yangchaojiang/yjPlay)|
 
 ### 代码生成
 |名字|版本|Star|
