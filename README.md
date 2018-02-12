@@ -29,6 +29,7 @@ Android Developer Technology Stack
 |[BolexLiu/ApkBusBlog](https://github.com/BolexLiu/ApkBusBlog)||[![GitHub stars](https://img.shields.io/github/stars/BolexLiu/ApkBusBlog.svg?style=plastic&label=Star) ](https://github.com/BolexLiu/ApkBusBlog)|
 |[xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather)||[![GitHub stars](https://img.shields.io/github/stars/xcc3641/SeeWeather.svg?style=plastic&label=Star) ](https://github.com/xcc3641/SeeWeather)|
 |[maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp)|v1.7.4|[![GitHub stars](https://img.shields.io/github/stars/maoruibin/TranslateApp.svg?style=plastic&label=Star) ](https://github.com/maoruibin/TranslateApp)|
+|[ruzhan123/awaker](https://github.com/ruzhan123/awaker)||[![GitHub stars](https://img.shields.io/github/stars/ruzhan123/awaker.svg?style=plastic&label=Star) ](https://github.com/ruzhan123/awaker)|
 
 ### 图片选择库
 |名字|版本|Star|
