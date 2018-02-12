@@ -127,4 +127,4 @@ Android Developer Technology Stack
 ### 图片控件
 |名字|版本|Star|
 |--|--|--|
-|[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)|[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)|[square/dagger](https://github.com/square/dagger)|v1.2.5|[![GitHub stars](https://img.shields.io/github/stars/chrisbanes/PhotoView.svg?style=plastic&label=Star) ](https://github.com/chrisbanes/PhotoView)|
+|[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)|[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)|[![GitHub stars](https://img.shields.io/github/stars/chrisbanes/PhotoView.svg?style=plastic&label=Star) ](https://github.com/chrisbanes/PhotoView)|
