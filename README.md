@@ -123,3 +123,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)|v8.8.1|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/butterknife.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/butterknife)|
 |[square/dagger](https://github.com/square/dagger)|v1.2.5|[![GitHub stars](https://img.shields.io/github/stars/square/dagger.svg?style=plastic&label=Star) ](https://github.com/square/dagger)|
+
+### 图片控件
+|名字|版本|Star|
+|--|--|--|
+|[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)|[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)|[square/dagger](https://github.com/square/dagger)|v1.2.5|[![GitHub stars](https://img.shields.io/github/stars/chrisbanes/PhotoView.svg?style=plastic&label=Star) ](https://github.com/chrisbanes/PhotoView)|
