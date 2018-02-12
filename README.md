@@ -14,10 +14,6 @@ Android Developer Technology Stack
 * [google/gson](https://github.com/google/gson)
 * [alibaba/fastjson](https://github.com/alibaba/fastjson)
 
-### 热修复框架
-* [Tencent/tinker](https://github.com/Tencent/tinker)
-* [alibaba/AndFix](https://github.com/alibaba/AndFix)
-
 ### 插件化框架
 * [Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)
 * [wequick/Small](https://github.com/wequick/Small)
@@ -133,7 +129,7 @@ Android Developer Technology Stack
 |[wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)|v3.5.0|[![GitHub stars](https://img.shields.io/github/stars/wyouflf/xUtils3.svg?style=plastic&label=Star) ](https://github.com/wyouflf/xUtils3)|
 |[vondear/RxTools](https://github.com/vondear/RxTools)|[![RxTools](https://jitpack.io/v/vondear/RxTools.svg)](https://jitpack.io/#vondear/RxTools)|[![GitHub stars](https://img.shields.io/github/stars/vondear/RxTools.svg?style=plastic&label=Star) ](https://github.com/vondear/RxTools)|
 
-### 工具包
+### 日志框架
 |名字|版本|Star|
 |--|--|--|
 |[orhanobut/logger](https://github.com/orhanobut/logger)|v2.1.1|[![GitHub stars](https://img.shields.io/github/stars/orhanobut/logger.svg?style=plastic&label=Star) ](https://github.com/orhanobut/logger)|
@@ -145,3 +141,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[Tencent/tinker](https://github.com/Tencent/tinker)|[![Release Version](https://img.shields.io/badge/release-1.9.1-red.svg)](https://github.com/Tencent/tinker/releases)|[![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=plastic&label=Star) ](https://github.com/Tencent/tinker)|
 |[alibaba/AndFix](https://github.com/alibaba/AndFix)|[![Download](https://api.bintray.com/packages/supern/maven/andfix/images/download.svg) ](https://bintray.com/supern/maven/andfix/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=plastic&label=Star) ](https://github.com/alibaba/AndFix)|
+
+### JSON框架
+|名字|版本|Star|
+|--|--|--|
+|[alibaba/fastjson](https://github.com/alibaba/fastjson)|[![GitHub release](https://img.shields.io/github/release/alibaba/fastjson.svg)](https://github.com/alibaba/fastjson/releases)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/fastjson.svg?style=plastic&label=Star) ](https://github.com/alibaba/fastjson)|
