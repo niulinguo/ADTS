@@ -303,6 +303,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)|v1.2.3|[![GitHub stars](https://img.shields.io/github/stars/huburt-Hu/NewbieGuide.svg?style=plastic&label=Star)](https://github.com/huburt-Hu/NewbieGuide)|
 |[KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)|v1.11.0|[![GitHub stars](https://img.shields.io/github/stars/KeepSafe/TapTargetView.svg?style=plastic&label=Star)](https://github.com/KeepSafe/TapTargetView)|
+|[hongyangAndroid/Highlight](https://github.com/hongyangAndroid/Highlight)|v1.8.0|[![GitHub stars](https://img.shields.io/github/stars/hongyangAndroid/Highlight.svg?style=plastic&label=Star)](https://github.com/hongyangAndroid/Highlight)|
 
 ### 数字脚标
 |名字|版本|Star|
@@ -313,3 +314,4 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[google/cameraview](https://github.com/google/cameraview)||[![GitHub stars](https://img.shields.io/github/stars/google/cameraview.svg?style=plastic&label=Star)](https://github.com/google/cameraview)|
+|[xingda920813/HelloCamera2](https://github.com/xingda920813/HelloCamera2)||[![GitHub stars](https://img.shields.io/github/stars/xingda920813/HelloCamera2.svg?style=plastic&label=Star)](https://github.com/xingda920813/HelloCamera2)|
