@@ -3,7 +3,7 @@
 > 
 > Android快速开发，Star这一个就够了
 
-[TOP]
+[TOC]
 
 ### App升级
 |名字|版本|Star|
