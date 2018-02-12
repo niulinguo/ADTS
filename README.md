@@ -135,6 +135,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[facebook/stetho](https://github.com/facebook/stetho)|v1.5.0|[![GitHub stars](https://img.shields.io/github/stars/facebook/stetho.svg?style=plastic&label=Star) ](https://github.com/facebook/stetho)|
 |[square/leakcanary](https://github.com/square/leakcanary)|v1.5.4|[![GitHub stars](https://img.shields.io/github/stars/square/leakcanary.svg?style=plastic&label=Star) ](https://github.com/square/leakcanary)|
+|[ACRA/acra](https://github.com/ACRA/acra)||[![GitHub stars](https://img.shields.io/github/stars/ACRA/acra.svg?style=plastic&label=Star) ](https://github.com/ACRA/acra)|
 
 ### Fragment框架
 |名字|版本|Star|
