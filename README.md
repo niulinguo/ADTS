@@ -110,3 +110,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)|v2.0.0|[![GitHub stars](https://img.shields.io/github/stars/qiujuer/Genius-Android.svg?style=plastic&label=Star) ](https://github.com/qiujuer/Genius-Android)|
+
+### 轮播
+|名字|版本|Star|
+|--|--|--|
+|[Bakumon/BulletinView](https://github.com/Bakumon/BulletinView)|[ ![Download](https://api.bintray.com/packages/zkxy/maven/BulletinView/images/download.svg) ](https://bintray.com/zkxy/maven/BulletinView/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/Bakumon/BulletinView.svg?style=plastic&label=Star) ](https://github.com/Bakumon/BulletinView)|
