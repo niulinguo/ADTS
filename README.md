@@ -194,6 +194,7 @@ Android Developer Technology Stack
 |[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|[![](https://jitpack.io/v/CymChad/BaseRecyclerViewAdapterHelper.svg)](https://jitpack.io/#CymChad/BaseRecyclerViewAdapterHelper)|[![GitHub stars](https://img.shields.io/github/stars/CymChad/BaseRecyclerViewAdapterHelper.svg?style=plastic&label=Star) ](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|
 |[YoKeyword/ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)||[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/ItemTouchHelperDemo.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/ItemTouchHelperDemo)|
 |[genius158/PullRefreshLayout](https://github.com/genius158/PullRefreshLayout)|v2.1.08|[![GitHub stars](https://img.shields.io/github/stars/genius158/PullRefreshLayout.svg?style=plastic&label=Star) ](https://github.com/genius158/PullRefreshLayout)|
+|[xmuSistone/VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)|v1.0.6|[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/VegaLayoutManager.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/VegaLayoutManager)|
 
 ### Loading
 |名字|版本|Star|
