@@ -29,6 +29,7 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[zhihu/Matisse](https://github.com/zhihu/Matisse)|v0.4.3|[![GitHub stars](https://img.shields.io/github/stars/zhihu/Matisse.svg?style=plastic&label=Star) ](https://github.com/zhihu/Matisse)|
+|[crazycodeboy/TakePhoto](https://github.com/crazycodeboy/TakePhoto)|v4.0.3|[![GitHub stars](https://img.shields.io/github/stars/crazycodeboy/TakePhoto.svg?style=plastic&label=Star) ](https://github.com/crazycodeboy/TakePhoto)|
 
 ### UI框架
 |名字|版本|Star|
@@ -95,6 +96,7 @@ Android Developer Technology Stack
 |[orhanobut/logger](https://github.com/orhanobut/logger)|v2.1.1|[![GitHub stars](https://img.shields.io/github/stars/orhanobut/logger.svg?style=plastic&label=Star) ](https://github.com/orhanobut/logger)|
 |[JakeWharton/hugo](https://github.com/JakeWharton/hugo)|v1.2.1|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/hugo.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/hugo)|
 |[JakeWharton/timber](https://github.com/JakeWharton/timber)|v4.6.0|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/timber.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/timber)|
+|[aliyun/aliyun-log-android-sdk](https://github.com/aliyun/aliyun-log-android-sdk)|v0.4.0|[![GitHub stars](https://img.shields.io/github/stars/aliyun/aliyun-log-android-sdk.svg?style=plastic&label=Star) ](https://github.com/aliyun/aliyun-log-android-sdk)|
 
 ### 热修复框架
 |名字|版本|Star|
@@ -130,6 +132,7 @@ Android Developer Technology Stack
 |[DroidPluginTeam/DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)|v0.9.1|[![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=plastic&label=Star) ](https://github.com/DroidPluginTeam/DroidPlugin)|
 |[asLody/VirtualApp](https://github.com/asLody/VirtualApp)||[![GitHub stars](https://img.shields.io/github/stars/asLody/VirtualApp.svg?style=plastic&label=Star) ](https://github.com/asLody/VirtualApp)|
 |[alibaba/jarslink](https://github.com/alibaba/jarslink)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alicp.jetcache/jetcache-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alicp.jetcache/jetcache-parent/)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/jarslink.svg?style=plastic&label=Star) ](https://github.com/alibaba/jarslink)|
+|[CtripMobile/DynamicAPK](https://github.com/CtripMobile/DynamicAPK)||[![GitHub stars](https://img.shields.io/github/stars/CtripMobile/DynamicAPK.svg?style=plastic&label=Star) ](https://github.com/CtripMobile/DynamicAPK)|
 
 ### 调试框架
 |名字|版本|Star|
