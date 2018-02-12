@@ -3,9 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-### 数据库框架
-* [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
-* [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)
 
 ### 图片压缩
 * [Curzibn/Luban](https://github.com/Curzibn/Luban)
@@ -147,3 +144,10 @@ Android Developer Technology Stack
 |--|--|--|
 |[alibaba/fastjson](https://github.com/alibaba/fastjson)|[![GitHub release](https://img.shields.io/github/release/alibaba/fastjson.svg)](https://github.com/alibaba/fastjson/releases)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/fastjson.svg?style=plastic&label=Star) ](https://github.com/alibaba/fastjson)|
 |[google/gson](https://github.com/google/gson)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson)|[![GitHub stars](https://img.shields.io/github/stars/google/gson.svg?style=plastic&label=Star) ](https://github.com/google/gson)|
+
+### 数据库框架
+|名字|版本|Star|
+|--|--|--|
+|[greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)|v3.2.2|[![GitHub stars](https://img.shields.io/github/stars/greenrobot/greenDAO.svg?style=plastic&label=Star) ](https://github.com/greenrobot/greenDAO)|
+|[objectbox/objectbox-java](https://github.com/objectbox/objectbox-java)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/objectbox/objectbox-java.svg?style=plastic&label=Star) ](https://github.com/objectbox/objectbox-java)|
+|[Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)|[![JitPack.io](https://img.shields.io/badge/JitPack.io-4.2.3-red.svg?style=flat)](https://jitpack.io/#Raizlabs/DBFlow)|[![GitHub stars](https://img.shields.io/github/stars/Raizlabs/DBFlow.svg?style=plastic&label=Star) ](https://github.com/Raizlabs/DBFlow)|
