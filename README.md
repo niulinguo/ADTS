@@ -175,14 +175,14 @@ Android Developer Technology Stack
 ### 图片裁剪
 |名字|版本|Star|
 |--|--|--|
-|[Yalantis/uCrop](https://github.com/Yalantis/uCrop)|v2.2.1|[GitHub stars](https://img.shields.io/github/stars/Yalantis/uCrop.svg?style=plastic&label=Star) ](https://github.com/Yalantis/uCrop)|
+|[Yalantis/uCrop](https://github.com/Yalantis/uCrop)|v2.2.1|[![GitHub stars](https://img.shields.io/github/stars/Yalantis/uCrop.svg?style=plastic&label=Star) ](https://github.com/Yalantis/uCrop)|
 
 ### 视频
 |名字|版本|Star|
 |--|--|--|
-|[Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)|v0.8.4|[GitHub stars](https://img.shields.io/github/stars/Bilibili/ijkplayer.svg?style=plastic&label=Star) ](https://github.com/Bilibili/ijkplayer)|
+|[Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)|v0.8.4|[![GitHub stars](https://img.shields.io/github/stars/Bilibili/ijkplayer.svg?style=plastic&label=Star) ](https://github.com/Bilibili/ijkplayer)|
 
 ### 代码生成
 |名字|版本|Star|
 |--|--|--|
-|[google/auto](https://github.com/google/auto)|[![Maven Central](https://img.shields.io/maven-central/v/com.google.auto.value/auto-value.svg)](https://mvnrepository.com/artifact/com.google.auto.value/auto-value)|[GitHub stars](https://img.shields.io/github/stars/google/auto.svg?style=plastic&label=Star)](https://github.com/google/auto)|
+|[google/auto](https://github.com/google/auto)|[![Maven Central](https://img.shields.io/maven-central/v/com.google.auto.value/auto-value.svg)](https://mvnrepository.com/artifact/com.google.auto.value/auto-value)|[![GitHub stars](https://img.shields.io/github/stars/google/auto.svg?style=plastic&label=Star)](https://github.com/google/auto)|
