@@ -12,11 +12,6 @@ Android Developer Technology Stack
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 * [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)
 
-### 图片缓存框架
-* [square/picasso](https://github.com/square/picasso)
-* [bumptech/glide](https://github.com/bumptech/glide)
-* [facebook/fresco](https://github.com/facebook/fresco)
-
 ### 图片压缩
 * [Curzibn/Luban](https://github.com/Curzibn/Luban)
 
@@ -136,3 +131,4 @@ Android Developer Technology Stack
 |--|--|--|
 |[bumptech/glide](https://github.com/bumptech/glide)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide)|[![GitHub stars](https://img.shields.io/github/stars/bumptech/glide.svg?style=plastic&label=Star) ](https://github.com/bumptech/glide)|
 |[square/picasso](https://github.com/square/picasso)|v2.5.2|[![GitHub stars](https://img.shields.io/github/stars/square/picasso.svg?style=plastic&label=Star) ](https://github.com/square/picasso)|
+|[facebook/fresco](https://github.com/facebook/fresco)|v1.8.1|[![GitHub stars](https://img.shields.io/github/stars/facebook/fresco.svg?style=plastic&label=Star) ](https://github.com/facebook/fresco)|
