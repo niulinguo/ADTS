@@ -27,6 +27,7 @@ Android Developer Technology Stack
 |[JustWayward/BookReader](https://github.com/JustWayward/BookReader)||[![GitHub stars](https://img.shields.io/github/stars/JustWayward/BookReader.svg?style=plastic&label=Star) ](https://github.com/JustWayward/BookReader)|
 |[qdrzwd/VideoRecorder](https://github.com/qdrzwd/VideoRecorder)||[![GitHub stars](https://img.shields.io/github/stars/qdrzwd/VideoRecorder.svg?style=plastic&label=Star) ](https://github.com/qdrzwd/VideoRecorder)|
 |[BolexLiu/ApkBusBlog](https://github.com/BolexLiu/ApkBusBlog)||[![GitHub stars](https://img.shields.io/github/stars/BolexLiu/ApkBusBlog.svg?style=plastic&label=Star) ](https://github.com/BolexLiu/ApkBusBlog)|
+|[xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather)||[![GitHub stars](https://img.shields.io/github/stars/xcc3641/SeeWeather.svg?style=plastic&label=Star) ](https://github.com/xcc3641/SeeWeather)|
 
 ### 图片选择库
 |名字|版本|Star|
@@ -51,6 +52,7 @@ Android Developer Technology Stack
 |[xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/AndroidPileLayout.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/AndroidPileLayout)|
 |[xmuSistone/ViewpagerTransition](https://github.com/xmuSistone/ViewpagerTransition)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/ViewpagerTransition.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/ViewpagerTransition)|
 |[xmuSistone/CardSlidePanel](https://github.com/xmuSistone/CardSlidePanel)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/CardSlidePanel.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/CardSlidePanel)|
+|[ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)|v1.2.32@aar|[![GitHub stars](https://img.shields.io/github/stars/ToxicBakery/ViewPagerTransforms.svg?style=plastic&label=Star) ](https://github.com/ToxicBakery/ViewPagerTransforms)|
 
 ### Blur
 |名字|版本|Star|
@@ -136,6 +138,7 @@ Android Developer Technology Stack
 |[asLody/VirtualApp](https://github.com/asLody/VirtualApp)||[![GitHub stars](https://img.shields.io/github/stars/asLody/VirtualApp.svg?style=plastic&label=Star) ](https://github.com/asLody/VirtualApp)|
 |[alibaba/jarslink](https://github.com/alibaba/jarslink)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alicp.jetcache/jetcache-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alicp.jetcache/jetcache-parent/)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/jarslink.svg?style=plastic&label=Star) ](https://github.com/alibaba/jarslink)|
 |[CtripMobile/DynamicAPK](https://github.com/CtripMobile/DynamicAPK)||[![GitHub stars](https://img.shields.io/github/stars/CtripMobile/DynamicAPK.svg?style=plastic&label=Star) ](https://github.com/CtripMobile/DynamicAPK)|
+|[luojilab/DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)|v1.2.0|[![GitHub stars](https://img.shields.io/github/stars/luojilab/DDComponentForAndroid.svg?style=plastic&label=Star) ](https://github.com/luojilab/DDComponentForAndroid)|
 
 ### 调试框架
 |名字|版本|Star|
@@ -183,6 +186,7 @@ Android Developer Technology Stack
 |[alibaba/Tangram-Android](https://github.com/alibaba/Tangram-Android)|v2.1.2|[![GitHub stars](https://img.shields.io/github/stars/alibaba/Tangram-Android.svg?style=plastic&label=Star) ](https://github.com/alibaba/Tangram-Android)|
 |[YoKeyword/IndexableRecyclerView](https://github.com/YoKeyword/IndexableRecyclerView)|v1.3.0|[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/IndexableRecyclerView.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/IndexableRecyclerView)|
 |[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|[![](https://jitpack.io/v/CymChad/BaseRecyclerViewAdapterHelper.svg)](https://jitpack.io/#CymChad/BaseRecyclerViewAdapterHelper)|[![GitHub stars](https://img.shields.io/github/stars/CymChad/BaseRecyclerViewAdapterHelper.svg?style=plastic&label=Star) ](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|
+|[YoKeyword/ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)||[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/ItemTouchHelperDemo.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/ItemTouchHelperDemo)|
 
 ### Loading
 |名字|版本|Star|
@@ -195,6 +199,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|[![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#PhilJay/MPAndroidChart)|[![GitHub stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart.svg?style=plastic&label=Star) ](https://github.com/PhilJay/MPAndroidChart)|
 |[Cleveroad/AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout)|v1.1.1|[![GitHub stars](https://img.shields.io/github/stars/Cleveroad/AdaptiveTableLayout.svg?style=plastic&label=Star) ](https://github.com/Cleveroad/AdaptiveTableLayout)|
+|[Kelin-Hong/ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel)|v1.2.0|[![GitHub stars](https://img.shields.io/github/stars/Kelin-Hong/ScrollablePanel.svg?style=plastic&label=Star) ](https://github.com/Kelin-Hong/ScrollablePanel)|
 
 ### 图片裁剪
 |名字|版本|Star|
@@ -222,12 +227,14 @@ Android Developer Technology Stack
 |--|--|--|
 |[H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)|v2.0.2|[![GitHub stars](https://img.shields.io/github/stars/H07000223/FlycoTabLayout.svg?style=plastic&label=Star)](https://github.com/H07000223/FlycoTabLayout)|
 |[tyzlmjj/PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)|v2.2.5|[![GitHub stars](https://img.shields.io/github/stars/tyzlmjj/PagerBottomTabStrip.svg?style=plastic&label=Star)](https://github.com/tyzlmjj/PagerBottomTabStrip)|
+|[hugeterry/CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)|v1.2.2|[![GitHub stars](https://img.shields.io/github/stars/hugeterry/CoordinatorTabLayout.svg?style=plastic&label=Star)](https://github.com/hugeterry/CoordinatorTabLayout)|
 
 ### 二维码
 |名字|版本|Star|
 |--|--|--|
 |[dm77/barcodescanner](https://github.com/dm77/barcodescanner)|v1.9.8|[![GitHub stars](https://img.shields.io/github/stars/dm77/barcodescanner.svg?style=plastic&label=Star)](https://github.com/dm77/barcodescanner)|
 |[yipianfengye/android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)|v2.2|[![GitHub stars](https://img.shields.io/github/stars/yipianfengye/android-zxingLibrary.svg?style=plastic&label=Star)](https://github.com/yipianfengye/android-zxingLibrary)|
+|[zxing/zxing](https://github.com/zxing/zxing)|v3.3.2|[![GitHub stars](https://img.shields.io/github/stars/zxing/zxing.svg?style=plastic&label=Star)](https://github.com/zxing/zxing)|
 
 ### 蓝牙
 |名字|版本|Star|
@@ -262,6 +269,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/laobie/StatusBarUtil.svg?style=plastic&label=Star)](https://github.com/laobie/StatusBarUtil)|
 |[gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|v2.3.0|[![GitHub stars](https://img.shields.io/github/stars/gyf-dev/ImmersionBar.svg?style=plastic&label=Star)](https://github.com/gyf-dev/ImmersionBar)|
+|[niorgai/StatusBarCompat](https://github.com/niorgai/StatusBarCompat)|v2.1.4|[![GitHub stars](https://img.shields.io/github/stars/niorgai/StatusBarCompat.svg?style=plastic&label=Star)](https://github.com/niorgai/StatusBarCompat)|
 
 ### 字体
 |名字|版本|Star|
