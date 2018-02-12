@@ -114,6 +114,7 @@ Android Developer Technology Stack
 |[didi/VirtualAPK](https://github.com/didi/VirtualAPK)|[![Release Version](https://img.shields.io/badge/release-0.9.1-red.svg)](https://github.com/didi/VirtualAPK/releases)|[![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=plastic&label=Star) ](https://github.com/didi/VirtualAPK)|
 |[DroidPluginTeam/DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)|v0.9.1|[![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=plastic&label=Star) ](https://github.com/DroidPluginTeam/DroidPlugin)|
 |[asLody/VirtualApp](https://github.com/asLody/VirtualApp)||[![GitHub stars](https://img.shields.io/github/stars/asLody/VirtualApp.svg?style=plastic&label=Star) ](https://github.com/asLody/VirtualApp)|
+|[alibaba/jarslink](https://github.com/alibaba/jarslink)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alicp.jetcache/jetcache-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alicp.jetcache/jetcache-parent/)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/jarslink.svg?style=plastic&label=Star) ](https://github.com/alibaba/jarslink)|
 
 ### 调试框架
 |名字|版本|Star|
@@ -165,3 +166,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[airbnb/lottie-android](https://github.com/airbnb/lottie-android)|v2.5.0-rc1|[![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-android.svg?style=plastic&label=Star) ](https://github.com/airbnb/lottie-android)|
 |[KingJA/LoadSir](https://github.com/KingJA/LoadSir)|[![](https://img.shields.io/github/release/KingJA/LoadSir.svg)](https://github.com/KingJA/LoadSir/releases)|[![GitHub stars](https://img.shields.io/github/stars/KingJA/LoadSir.svg?style=plastic&label=Star) ](https://github.com/KingJA/LoadSir)|
+
+### 表
+|名字|版本|Star|
+|--|--|--|
+|[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|[![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#PhilJay/MPAndroidChart)|[![GitHub stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart.svg?style=plastic&label=Star) ](https://github.com/PhilJay/MPAndroidChart)|
