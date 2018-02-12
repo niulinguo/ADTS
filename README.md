@@ -149,3 +149,10 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[alibaba/ARouter](https://github.com/alibaba/ARouter)|[![Download](https://api.bintray.com/packages/zhi1ong/maven/arouter-api/images/download.svg)](https://bintray.com/zhi1ong/maven/arouter-api/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/ARouter.svg?style=plastic&label=Star) ](https://github.com/alibaba/ARouter)|
+
+### 跨平台框架
+|名字|版本|Star|
+|--|--|--|
+|[apache/incubator-weex](https://github.com/apache/incubator-weex)|[![Download](https://api.bintray.com/packages/alibabaweex/maven/weex_sdk/images/download.svg)](https://bintray.com/alibabaweex/maven/weex_sdk/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/apache/incubator-weex.svg?style=plastic&label=Star) ](https://github.com/apache/incubator-weex)|
+|[facebook/react-native](https://github.com/facebook/react-native)|[![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)|[![GitHub stars](https://img.shields.io/github/stars/facebook/react-native.svg?style=plastic&label=Star) ](https://github.com/facebook/react-native)|
+|[Tencent/VasSonic](https://github.com/Tencent/VasSonic)|3.0.0-beta|[![GitHub stars](https://img.shields.io/github/stars/Tencent/VasSonic.svg?style=plastic&label=Star) ](https://github.com/Tencent/VasSonic)|
