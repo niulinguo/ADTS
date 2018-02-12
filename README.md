@@ -302,8 +302,14 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)|v1.2.3|[![GitHub stars](https://img.shields.io/github/stars/huburt-Hu/NewbieGuide.svg?style=plastic&label=Star)](https://github.com/huburt-Hu/NewbieGuide)|
+|[KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)|v1.11.0|[![GitHub stars](https://img.shields.io/github/stars/KeepSafe/TapTargetView.svg?style=plastic&label=Star)](https://github.com/KeepSafe/TapTargetView)|
 
 ### 数字脚标
 |名字|版本|Star|
 |--|--|--|
 |[javonleee/DragPointView](https://github.com/javonleee/DragPointView)|v1.0.3|[![GitHub stars](https://img.shields.io/github/stars/javonleee/DragPointView.svg?style=plastic&label=Star)](https://github.com/javonleee/DragPointView)|
+
+### 相机预览
+|名字|版本|Star|
+|--|--|--|
+|[google/cameraview](https://github.com/google/cameraview)||[![GitHub stars](https://img.shields.io/github/stars/google/cameraview.svg?style=plastic&label=Star)](https://github.com/google/cameraview)|
