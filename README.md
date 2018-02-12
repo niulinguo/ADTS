@@ -45,10 +45,6 @@ Android Developer Technology Stack
 ### 模块化框架
 * [alibaba/atlas](https://github.com/alibaba/atlas)
 
-### 依赖注入框架
-* [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
-* [square/dagger](https://github.com/square/dagger)
-
 ### Crash框架
 * [ACRA/acra](https://github.com/ACRA/acra)
 
@@ -126,3 +122,4 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)|v8.8.1|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/butterknife.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/butterknife)|
+|[square/dagger](https://github.com/square/dagger)|v1.2.5|[![GitHub stars](https://img.shields.io/github/stars/square/dagger.svg?style=plastic&label=Star) ](https://github.com/square/dagger)|
