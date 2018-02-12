@@ -3,11 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-### 日志框架
-* [orhanobut/logger](https://github.com/orhanobut/logger)
-* [JakeWharton/hugo](https://github.com/JakeWharton/hugo)
-* [JakeWharton/timber](https://github.com/JakeWharton/timber)
-
 ### 数据库框架
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 * [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)
@@ -144,3 +139,9 @@ Android Developer Technology Stack
 |[orhanobut/logger](https://github.com/orhanobut/logger)|v2.1.1|[![GitHub stars](https://img.shields.io/github/stars/orhanobut/logger.svg?style=plastic&label=Star) ](https://github.com/orhanobut/logger)|
 |[JakeWharton/hugo](https://github.com/JakeWharton/hugo)|v1.2.1|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/hugo.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/hugo)|
 |[JakeWharton/timber](https://github.com/JakeWharton/timber)|v4.6.0|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/timber.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/timber)|
+
+### 热修复框架
+|名字|版本|Star|
+|--|--|--|
+|[Tencent/tinker](https://github.com/Tencent/tinker)|[![Release Version](https://img.shields.io/badge/release-1.9.1-red.svg)](https://github.com/Tencent/tinker/releases)|[![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=plastic&label=Star) ](https://github.com/Tencent/tinker)|
+|[alibaba/AndFix](https://github.com/alibaba/AndFix)|[![Download](https://api.bintray.com/packages/supern/maven/andfix/images/download.svg) ](https://bintray.com/supern/maven/andfix/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=plastic&label=Star) ](https://github.com/alibaba/AndFix)|
