@@ -32,16 +32,8 @@ Android Developer Technology Stack
 ### UI架构框架
 * [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 
-### 调试工具
-* [square/leakcanary](https://github.com/square/leakcanary)
-* [facebook/stetho](https://github.com/search?utf8=✓&q=stetho&type=)
-
 ### Fragment框架
 * [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)
-
-### 工具类
-* [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
-* [vondear/RxTools](https://github.com/vondear/RxTools)
 
 ### App升级
 |名字|版本|Star|
@@ -57,6 +49,7 @@ Android Developer Technology Stack
 |[Rayhahah/EasySports](https://github.com/Rayhahah/EasySports)||[![GitHub stars](https://img.shields.io/github/stars/Rayhahah/EasySports.svg?style=plastic&label=Star) ](https://github.com/Rayhahah/EasySports)|
 |[Will-Ls/WeiYueKotlin](https://github.com/Will-Ls/WeiYueKotlin)||[![GitHub stars](https://img.shields.io/github/stars/Will-Ls/WeiYueKotlin.svg?style=plastic&label=Star) ](https://github.com/Will-Ls/WeiYueKotlin)|
 |[Will-Ls/WeiYue](https://github.com/Will-Ls/WeiYue)||[![GitHub stars](https://img.shields.io/github/stars/Will-Ls/WeiYue.svg?style=plastic&label=Star) ](https://github.com/Will-Ls/WeiYue)|
+|[DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya)||[![GitHub stars](https://img.shields.io/github/stars/DreaminginCodeZH/Douya.svg?style=plastic&label=Star) ](https://github.com/DreaminginCodeZH/Douya)|
 
 ### 图片选择库
 |名字|版本|Star|
@@ -151,3 +144,9 @@ Android Developer Technology Stack
 |[wequick/Small](https://github.com/wequick/Small)|v1.3.0-beta5|[![GitHub stars](https://img.shields.io/github/stars/wequick/Small.svg?style=plastic&label=Star) ](https://github.com/wequick/Small)|
 |[didi/VirtualAPK](https://github.com/didi/VirtualAPK)|[![Release Version](https://img.shields.io/badge/release-0.9.1-red.svg)](https://github.com/didi/VirtualAPK/releases)|[![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=plastic&label=Star) ](https://github.com/didi/VirtualAPK)|
 |[DroidPluginTeam/DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)|v0.9.1|[![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=plastic&label=Star) ](https://github.com/DroidPluginTeam/DroidPlugin)|
+
+### 调试框架
+|名字|版本|Star|
+|--|--|--|
+|[facebook/stetho](https://github.com/facebook/stetho)|v1.5.0|[![GitHub stars](https://img.shields.io/github/stars/facebook/stetho.svg?style=plastic&label=Star) ](https://github.com/facebook/stetho)|
+|[square/leakcanary](https://github.com/square/leakcanary)|v1.5.4|[![GitHub stars](https://img.shields.io/github/stars/square/leakcanary.svg?style=plastic&label=Star) ](https://github.com/square/leakcanary)|
