@@ -76,6 +76,7 @@ Android Developer Technology Stack
 |[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)|[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)|[![GitHub stars](https://img.shields.io/github/stars/chrisbanes/PhotoView.svg?style=plastic&label=Star) ](https://github.com/chrisbanes/PhotoView)|
 |[bm-x/PhotoView](https://github.com/bm-x/PhotoView)|v1.4.1|[![GitHub stars](https://img.shields.io/github/stars/bm-x/PhotoView.svg?style=plastic&label=Star) ](https://github.com/bm-x/PhotoView)|
 |[hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)|v2.2.0|[![GitHub stars](https://img.shields.io/github/stars/hdodenhof/CircleImageView.svg?style=plastic&label=Star) ](https://github.com/hdodenhof/CircleImageView)|
+|[felipecsl/GifImageView](https://github.com/felipecsl/GifImageView)|v2.2.0|[![GitHub stars](https://img.shields.io/github/stars/felipecsl/GifImageView.svg?style=plastic&label=Star) ](https://github.com/felipecsl/GifImageView)|
 
 ### 网络框架
 |名字|版本|Star|
@@ -295,3 +296,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)|v1.2.3|[![GitHub stars](https://img.shields.io/github/stars/huburt-Hu/NewbieGuide.svg?style=plastic&label=Star)](https://github.com/huburt-Hu/NewbieGuide)|
+
+### 数字脚标
+|名字|版本|Star|
+|--|--|--|
+|[javonleee/DragPointView](https://github.com/javonleee/DragPointView)|v1.0.3|[![GitHub stars](https://img.shields.io/github/stars/javonleee/DragPointView.svg?style=plastic&label=Star)](https://github.com/javonleee/DragPointView)|
