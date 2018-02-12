@@ -140,7 +140,7 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[Tencent/tinker](https://github.com/Tencent/tinker)|[![Release Version](https://img.shields.io/badge/release-1.9.1-red.svg)](https://github.com/Tencent/tinker/releases)|[![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=plastic&label=Star) ](https://github.com/Tencent/tinker)|
-|[alibaba/AndFix](https://github.com/alibaba/AndFix)|[![Download](https://api.bintray.com/packages/supern/maven/andfix/images/download.svg) ](https://bintray.com/supern/maven/andfix/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=plastic&label=Star) ](https://github.com/alibaba/AndFix)|
+|[alibaba/AndFix](https://github.com/alibaba/AndFix)|[![GitHub release](https://img.shields.io/github/release/alibaba/AndFix.svg)](https://github.com/alibaba/AndFix/releases)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=plastic&label=Star) ](https://github.com/alibaba/AndFix)|
 
 ### JSON框架
 |名字|版本|Star|
