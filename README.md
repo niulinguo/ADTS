@@ -135,3 +135,4 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[bumptech/glide](https://github.com/bumptech/glide)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide)|[![GitHub stars](https://img.shields.io/github/stars/bumptech/glide.svg?style=plastic&label=Star) ](https://github.com/bumptech/glide)|
+|[square/picasso](https://github.com/square/picasso)|v2.5.2|[![GitHub stars](https://img.shields.io/github/stars/square/picasso.svg?style=plastic&label=Star) ](https://github.com/square/picasso)|
