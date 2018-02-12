@@ -3,9 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-### Crash框架
-* [ACRA/acra](https://github.com/ACRA/acra)
-
 ### 埋点统计框架
 * [mixpanel/mixpanel-android](https://github.com/mixpanel/mixpanel-android)
 
@@ -135,7 +132,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[facebook/stetho](https://github.com/facebook/stetho)|v1.5.0|[![GitHub stars](https://img.shields.io/github/stars/facebook/stetho.svg?style=plastic&label=Star) ](https://github.com/facebook/stetho)|
 |[square/leakcanary](https://github.com/square/leakcanary)|v1.5.4|[![GitHub stars](https://img.shields.io/github/stars/square/leakcanary.svg?style=plastic&label=Star) ](https://github.com/square/leakcanary)|
-|[ACRA/acra](https://github.com/ACRA/acra)||[![GitHub stars](https://img.shields.io/github/stars/ACRA/acra.svg?style=plastic&label=Star) ](https://github.com/ACRA/acra)|
+|[ACRA/acra](https://github.com/ACRA/acra)|[![Maven Central](https://img.shields.io/maven-central/v/ch.acra/acra.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22ch.acra%22%20AND%20a%3A%22acra%22)|[![GitHub stars](https://img.shields.io/github/stars/ACRA/acra.svg?style=plastic&label=Star) ](https://github.com/ACRA/acra)|
 
 ### Fragment框架
 |名字|版本|Star|
