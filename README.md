@@ -23,6 +23,7 @@ Android Developer Technology Stack
 |[jiahongfei/TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)||[![GitHub stars](https://img.shields.io/github/stars/jiahongfei/TodayStepCounter.svg?style=plastic&label=Star) ](https://github.com/jiahongfei/TodayStepCounter)|
 |[Horrarndoo/YiZhi](https://github.com/Horrarndoo/YiZhi)||[![GitHub stars](https://img.shields.io/github/stars/Horrarndoo/YiZhi.svg?style=plastic&label=Star) ](https://github.com/Horrarndoo/YiZhi)|
 |[wangzailfm/WanAndroidClient](https://github.com/wangzailfm/WanAndroidClient)||[![GitHub stars](https://img.shields.io/github/stars/wangzailfm/WanAndroidClient.svg?style=plastic&label=Star) ](https://github.com/wangzailfm/WanAndroidClient)|
+|[zhujun2730/WeiKanDian](https://github.com/zhujun2730/WeiKanDian)||[![GitHub stars](https://img.shields.io/github/stars/zhujun2730/WeiKanDian.svg?style=plastic&label=Star) ](https://github.com/zhujun2730/WeiKanDian)|
 
 ### 图片选择库
 |名字|版本|Star|
@@ -43,6 +44,9 @@ Android Developer Technology Stack
 |[pinguo-zhouwei/MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)|v2.0.0|[![GitHub stars](https://img.shields.io/github/stars/pinguo-zhouwei/MZBannerView.svg?style=plastic&label=Star) ](https://github.com/pinguo-zhouwei/MZBannerView)|
 |[sfsheng0322/MarqueeView](https://github.com/sfsheng0322/MarqueeView)|v1.3.3|[![GitHub stars](https://img.shields.io/github/stars/sfsheng0322/MarqueeView.svg?style=plastic&label=Star) ](https://github.com/sfsheng0322/MarqueeView)|
 |[youth5201314/banner](https://github.com/youth5201314/banner)|v1.4.10|[![GitHub stars](https://img.shields.io/github/stars/youth5201314/banner.svg?style=plastic&label=Star) ](https://github.com/youth5201314/banner)|
+|[xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/AndroidPileLayout.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/AndroidPileLayout)|
+|[xmuSistone/ViewpagerTransition](https://github.com/xmuSistone/ViewpagerTransition)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/ViewpagerTransition.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/ViewpagerTransition)|
+|[xmuSistone/CardSlidePanel](https://github.com/xmuSistone/CardSlidePanel)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/CardSlidePanel.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/CardSlidePanel)|
 
 ### Blur
 |名字|版本|Star|
@@ -61,6 +65,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)|[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)|[![GitHub stars](https://img.shields.io/github/stars/chrisbanes/PhotoView.svg?style=plastic&label=Star) ](https://github.com/chrisbanes/PhotoView)|
+|[bm-x/PhotoView](https://github.com/bm-x/PhotoView)|v1.4.1|[![GitHub stars](https://img.shields.io/github/stars/bm-x/PhotoView.svg?style=plastic&label=Star) ](https://github.com/bm-x/PhotoView)|
+|[hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)|v2.2.0|[![GitHub stars](https://img.shields.io/github/stars/hdodenhof/CircleImageView.svg?style=plastic&label=Star) ](https://github.com/hdodenhof/CircleImageView)|
 
 ### 网络框架
 |名字|版本|Star|
@@ -187,6 +193,7 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[Yalantis/uCrop](https://github.com/Yalantis/uCrop)|v2.2.1|[![GitHub stars](https://img.shields.io/github/stars/Yalantis/uCrop.svg?style=plastic&label=Star) ](https://github.com/Yalantis/uCrop)|
+|[ArthurHub/Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)|v2.6.0|[![GitHub stars](https://img.shields.io/github/stars/ArthurHub/Android-Image-Cropper.svg?style=plastic&label=Star) ](https://github.com/ArthurHub/Android-Image-Cropper)|
 
 ### 视频
 |名字|版本|Star|
@@ -194,8 +201,48 @@ Android Developer Technology Stack
 |[Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)|v0.8.4|[![GitHub stars](https://img.shields.io/github/stars/Bilibili/ijkplayer.svg?style=plastic&label=Star) ](https://github.com/Bilibili/ijkplayer)|
 |[yixia/FFmpeg-Android](https://github.com/yixia/FFmpeg-Android)||[![GitHub stars](https://img.shields.io/github/stars/yixia/FFmpeg-Android.svg?style=plastic&label=Star) ](https://github.com/yixia/FFmpeg-Android)|
 |[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)|v0.6.1|[![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg.svg?style=plastic&label=Star) ](https://github.com/FFmpeg/FFmpeg)|
+|[daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming)||[![GitHub stars](https://img.shields.io/github/stars/daniulive/SmarterStreaming.svg?style=plastic&label=Star) ](https://github.com/daniulive/SmarterStreaming)|
 
 ### 代码生成
 |名字|版本|Star|
 |--|--|--|
 |[google/auto](https://github.com/google/auto)|[![Maven Central](https://img.shields.io/maven-central/v/com.google.auto.value/auto-value.svg)](https://mvnrepository.com/artifact/com.google.auto.value/auto-value)|[![GitHub stars](https://img.shields.io/github/stars/google/auto.svg?style=plastic&label=Star)](https://github.com/google/auto)|
+
+### Tab
+|名字|版本|Star|
+|--|--|--|
+|[H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)|v2.0.2|[![GitHub stars](https://img.shields.io/github/stars/H07000223/FlycoTabLayout.svg?style=plastic&label=Star)](https://github.com/H07000223/FlycoTabLayout)|
+|[tyzlmjj/PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)|v2.2.5|[![GitHub stars](https://img.shields.io/github/stars/tyzlmjj/PagerBottomTabStrip.svg?style=plastic&label=Star)](https://github.com/tyzlmjj/PagerBottomTabStrip)|
+
+### 二维码
+|名字|版本|Star|
+|--|--|--|
+|[dm77/barcodescanner](https://github.com/dm77/barcodescanner)|v1.9.8|[![GitHub stars](https://img.shields.io/github/stars/dm77/barcodescanner.svg?style=plastic&label=Star)](https://github.com/dm77/barcodescanner)|
+|[yipianfengye/android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)|v2.2|[![GitHub stars](https://img.shields.io/github/stars/yipianfengye/android-zxingLibrary.svg?style=plastic&label=Star)](https://github.com/yipianfengye/android-zxingLibrary)|
+
+### 蓝牙
+|名字|版本|Star|
+|--|--|--|
+|[haodynasty/AndroidBleManager](https://github.com/haodynasty/AndroidBleManager)|v2.1.5|[![GitHub stars](https://img.shields.io/github/stars/haodynasty/AndroidBleManager.svg?style=plastic&label=Star)](https://github.com/haodynasty/AndroidBleManager)|
+|[dingjikerbo/BluetoothKit](https://github.com/dingjikerbo/BluetoothKit)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/dingjikerbo/BluetoothKit.svg?style=plastic&label=Star)](https://github.com/dingjikerbo/BluetoothKit)|
+
+### MQTT
+|名字|版本|Star|
+|--|--|--|
+|[eclipse/paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android)|v1.1.1|[![GitHub stars](https://img.shields.io/github/stars/eclipse/paho.mqtt.android.svg?style=plastic&label=Star)](https://github.com/eclipse/paho.mqtt.android)|
+|[eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java)|v1.2.0|[![GitHub stars](https://img.shields.io/github/stars/eclipse/paho.mqtt.java.svg?style=plastic&label=Star)](https://github.com/eclipse/paho.mqtt.java)|
+
+### FTP
+|名字|版本|Star|
+|--|--|--|
+|[linkindrew/easyFTP](https://github.com/linkindrew/easyFTP)|v1.1|[![GitHub stars](https://img.shields.io/github/stars/linkindrew/easyFTP.svg?style=plastic&label=Star)](https://github.com/linkindrew/easyFTP)|
+
+### 权限
+|名字|版本|Star|
+|--|--|--|
+|[lovedise/PermissionGen](https://github.com/lovedise/PermissionGen)|v0.0.6|[![GitHub stars](https://img.shields.io/github/stars/lovedise/PermissionGen.svg?style=plastic&label=Star)](https://github.com/lovedise/PermissionGen)|
+
+### MVP
+|名字|版本|Star|
+|--|--|--|
+|[Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy)|v1.5.3|[![GitHub stars](https://img.shields.io/github/stars/Arello-Mobile/Moxy.svg?style=plastic&label=Star)](https://github.com/Arello-Mobile/Moxy)|
