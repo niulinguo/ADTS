@@ -114,4 +114,4 @@ Android Developer Technology Stack
 ### 轮播
 |名字|版本|Star|
 |--|--|--|
-|[Bakumon/BulletinView](https://github.com/Bakumon/BulletinView)|[ ![Download](https://api.bintray.com/packages/bakumon/maven/BulletinView/images/download.svg) ](https://bintray.com/bakumon/maven/BulletinView/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/Bakumon/BulletinView.svg?style=plastic&label=Star) ](https://github.com/Bakumon/BulletinView)|
+|[Bakumon/BulletinView](https://github.com/Bakumon/BulletinView)|[ ![Download](https://api.bintray.com/packages/bakumon/maven/bulletinview/images/download.svg) ](https://bintray.com/bakumon/maven/bulletinview/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/Bakumon/BulletinView.svg?style=plastic&label=Star) ](https://github.com/Bakumon/BulletinView)|
