@@ -53,6 +53,8 @@ Android Developer Technology Stack
 |[xmuSistone/ViewpagerTransition](https://github.com/xmuSistone/ViewpagerTransition)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/ViewpagerTransition.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/ViewpagerTransition)|
 |[xmuSistone/CardSlidePanel](https://github.com/xmuSistone/CardSlidePanel)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/CardSlidePanel.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/CardSlidePanel)|
 |[ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)|v1.2.32@aar|[![GitHub stars](https://img.shields.io/github/stars/ToxicBakery/ViewPagerTransforms.svg?style=plastic&label=Star) ](https://github.com/ToxicBakery/ViewPagerTransforms)|
+|[saiwu-bigkoo/Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)|v2.0.5|[![GitHub stars](https://img.shields.io/github/stars/saiwu-bigkoo/Android-ConvenientBanner.svg?style=plastic&label=Star) ](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)|
+|[Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)|v1.0.5|[![GitHub stars](https://img.shields.io/github/stars/Cleveroad/FanLayoutManager.svg?style=plastic&label=Star) ](https://github.com/Cleveroad/FanLayoutManager)|
 
 ### Blur
 |名字|版本|Star|
@@ -187,6 +189,7 @@ Android Developer Technology Stack
 |[YoKeyword/IndexableRecyclerView](https://github.com/YoKeyword/IndexableRecyclerView)|v1.3.0|[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/IndexableRecyclerView.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/IndexableRecyclerView)|
 |[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|[![](https://jitpack.io/v/CymChad/BaseRecyclerViewAdapterHelper.svg)](https://jitpack.io/#CymChad/BaseRecyclerViewAdapterHelper)|[![GitHub stars](https://img.shields.io/github/stars/CymChad/BaseRecyclerViewAdapterHelper.svg?style=plastic&label=Star) ](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|
 |[YoKeyword/ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)||[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/ItemTouchHelperDemo.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/ItemTouchHelperDemo)|
+|[genius158/PullRefreshLayout](https://github.com/genius158/PullRefreshLayout)|v2.1.08|[![GitHub stars](https://img.shields.io/github/stars/genius158/PullRefreshLayout.svg?style=plastic&label=Star) ](https://github.com/genius158/PullRefreshLayout)|
 
 ### Loading
 |名字|版本|Star|
@@ -275,3 +278,13 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)|v2.2.2|[![GitHub stars](https://img.shields.io/github/stars/JoanZapata/android-iconify.svg?style=plastic&label=Star)](https://github.com/JoanZapata/android-iconify)|
+
+### 选择控件
+|名字|版本|Star|
+|--|--|--|
+|[Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView)|v3.2.7|[![GitHub stars](https://img.shields.io/github/stars/Bigkoo/Android-PickerView.svg?style=plastic&label=Star)](https://github.com/Bigkoo/Android-PickerView)|
+
+### 流布局
+|名字|版本|Star|
+|--|--|--|
+|[hongyangAndroid/FlowLayout](https://github.com/hongyangAndroid/FlowLayout)|v1.1.2|[![GitHub stars](https://img.shields.io/github/stars/hongyangAndroid/FlowLayout.svg?style=plastic&label=Star)](https://github.com/hongyangAndroid/FlowLayout)|
