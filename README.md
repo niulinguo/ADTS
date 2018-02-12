@@ -1,9 +1,6 @@
 # ADTS
-Android Developer Technology Stack
-
+> Android Developer Technology Stack 安卓开发技术栈
 > Android快速开发，Star这一个就够了
-
-安卓开发技术栈
 
 ### App升级
 |名字|版本|Star|
