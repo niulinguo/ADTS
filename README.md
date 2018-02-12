@@ -58,9 +58,6 @@ Android Developer Technology Stack
 ### UI架构框架
 * [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 
-### 标准UI组件
-* [QMUI/QMUI_Android](https://github.com/QMUI/QMUI_Android)
-
 ### 调试工具
 * [square/leakcanary](https://github.com/square/leakcanary)
 * [facebook/stetho](https://github.com/search?utf8=✓&q=stetho&type=)
@@ -96,6 +93,7 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)|v2.0.0|[![GitHub stars](https://img.shields.io/github/stars/qiujuer/Genius-Android.svg?style=plastic&label=Star) ](https://github.com/qiujuer/Genius-Android)|
+|[QMUI/QMUI_Android](https://github.com/QMUI/QMUI_Android)|v1.0.6|[![GitHub stars](https://img.shields.io/github/stars/QMUI/QMUI_Android.svg?style=plastic&label=Star) ](https://github.com/QMUI/QMUI_Android)|
 
 ### 轮播
 |名字|版本|Star|
@@ -132,3 +130,10 @@ Android Developer Technology Stack
 |[bumptech/glide](https://github.com/bumptech/glide)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide)|[![GitHub stars](https://img.shields.io/github/stars/bumptech/glide.svg?style=plastic&label=Star) ](https://github.com/bumptech/glide)|
 |[square/picasso](https://github.com/square/picasso)|v2.5.2|[![GitHub stars](https://img.shields.io/github/stars/square/picasso.svg?style=plastic&label=Star) ](https://github.com/square/picasso)|
 |[facebook/fresco](https://github.com/facebook/fresco)|v1.8.1|[![GitHub stars](https://img.shields.io/github/stars/facebook/fresco.svg?style=plastic&label=Star) ](https://github.com/facebook/fresco)|
+
+### 工具包
+|名字|版本|Star|
+|--|--|--|
+|[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|v1.12.5|[![GitHub stars](https://img.shields.io/github/stars/Blankj/AndroidUtilCode.svg?style=plastic&label=Star) ](https://github.com/Blankj/AndroidUtilCode)|
+|[wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)|v3.5.0|[![GitHub stars](https://img.shields.io/github/stars/wyouflf/xUtils3.svg?style=plastic&label=Star) ](https://github.com/wyouflf/xUtils3)|
+|[vondear/RxTools](https://github.com/vondear/RxTools)|[![RxTools](https://jitpack.io/v/vondear/RxTools.svg)](https://jitpack.io/#vondear/RxTools)|[![GitHub stars](https://img.shields.io/github/stars/vondear/RxTools.svg?style=plastic&label=Star) ](https://github.com/vondear/RxTools)|
