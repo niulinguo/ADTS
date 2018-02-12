@@ -191,6 +191,7 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|[![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#PhilJay/MPAndroidChart)|[![GitHub stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart.svg?style=plastic&label=Star) ](https://github.com/PhilJay/MPAndroidChart)|
+|[Cleveroad/AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout)|v1.1.1|[![GitHub stars](https://img.shields.io/github/stars/Cleveroad/AdaptiveTableLayout.svg?style=plastic&label=Star) ](https://github.com/Cleveroad/AdaptiveTableLayout)|
 
 ### 图片裁剪
 |名字|版本|Star|
@@ -205,6 +206,7 @@ Android Developer Technology Stack
 |[yixia/FFmpeg-Android](https://github.com/yixia/FFmpeg-Android)||[![GitHub stars](https://img.shields.io/github/stars/yixia/FFmpeg-Android.svg?style=plastic&label=Star) ](https://github.com/yixia/FFmpeg-Android)|
 |[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)|v0.6.1|[![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg.svg?style=plastic&label=Star) ](https://github.com/FFmpeg/FFmpeg)|
 |[daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming)||[![GitHub stars](https://img.shields.io/github/stars/daniulive/SmarterStreaming.svg?style=plastic&label=Star) ](https://github.com/daniulive/SmarterStreaming)|
+|[CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|v4.0.0-beat1|[![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer.svg?style=plastic&label=Star) ](https://github.com/CarGuo/GSYVideoPlayer)|
 
 ### 代码生成
 |名字|版本|Star|
@@ -254,3 +256,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/laobie/StatusBarUtil.svg?style=plastic&label=Star)](https://github.com/laobie/StatusBarUtil)|
+|[gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|v2.3.0|[![GitHub stars](https://img.shields.io/github/stars/gyf-dev/ImmersionBar.svg?style=plastic&label=Star)](https://github.com/gyf-dev/ImmersionBar)|
+
+### 字体
+|名字|版本|Star|
+|[JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)|v2.2.2|[![GitHub stars](https://img.shields.io/github/stars/JoanZapata/android-iconify.svg?style=plastic&label=Star)](https://github.com/JoanZapata/android-iconify)|
