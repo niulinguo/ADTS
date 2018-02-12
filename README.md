@@ -158,6 +158,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)|[![Download](https://api.bintray.com/packages/yokeyword/maven/Fragmentation/images/download.svg) ](https://bintray.com/yokeyword/maven/Fragmentation/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/Fragmentation.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/Fragmentation)|
 |[JustKiddingBaby/FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger)|![Download](https://api.bintray.com/packages/jkb/maven/fragment-rigger/images/download.svg)|[![GitHub stars](https://img.shields.io/github/stars/JustKiddingBaby/FragmentRigger.svg?style=plastic&label=Star) ](https://github.com/JustKiddingBaby/FragmentRigger)|
+|[xmuSistone/VerticalSlideFragment](https://github.com/xmuSistone/VerticalSlideFragment)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/VerticalSlideFragment.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/VerticalSlideFragment)|
 
 ### 消息框架
 |名字|版本|Star|
