@@ -3,9 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-### 路由框架
-* [alibaba/ARouter](https://github.com/alibaba/ARouter)
-
 ### Crash框架
 * [ACRA/acra](https://github.com/ACRA/acra)
 
@@ -149,3 +146,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[greenrobot/EventBus](https://github.com/greenrobot/EventBus)|v3.1.1|[![GitHub stars](https://img.shields.io/github/stars/greenrobot/EventBus.svg?style=plastic&label=Star) ](https://github.com/greenrobot/EventBus)|
 |[square/otto](https://github.com/square/otto)|v1.3.8|[![GitHub stars](https://img.shields.io/github/stars/square/otto.svg?style=plastic&label=Star) ](https://github.com/square/otto)|
+
+### 路由框架
+|名字|版本|Star|
+|--|--|--|
+|[alibaba/ARouter](https://github.com/alibaba/ARouter)|[![Download](https://api.bintray.com/packages/zhi1ong/maven/arouter-api/images/download.svg)](https://bintray.com/zhi1ong/maven/arouter-api/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/alibaba/ARouter.svg?style=plastic&label=Star) ](https://github.com/alibaba/ARouter)|
