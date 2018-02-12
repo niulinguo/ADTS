@@ -246,3 +246,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy)|v1.5.3|[![GitHub stars](https://img.shields.io/github/stars/Arello-Mobile/Moxy.svg?style=plastic&label=Star)](https://github.com/Arello-Mobile/Moxy)|
+
+### 状态栏
+|名字|版本|Star|
+|--|--|--|
+|[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/laobie/StatusBarUtil.svg?style=plastic&label=Star)](https://github.com/laobie/StatusBarUtil)|
