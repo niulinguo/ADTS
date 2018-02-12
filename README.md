@@ -22,9 +22,6 @@ Android Developer Technology Stack
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 * [google/agera](https://github.com/google/agera)
 
-### UI架构框架
-* [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
-
 ### App升级
 |名字|版本|Star|
 |--|--|--|
@@ -51,6 +48,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)|v2.0.0|[![GitHub stars](https://img.shields.io/github/stars/qiujuer/Genius-Android.svg?style=plastic&label=Star) ](https://github.com/qiujuer/Genius-Android)|
 |[QMUI/QMUI_Android](https://github.com/QMUI/QMUI_Android)|v1.0.6|[![GitHub stars](https://img.shields.io/github/stars/QMUI/QMUI_Android.svg?style=plastic&label=Star) ](https://github.com/QMUI/QMUI_Android)|
+|[android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)|v0.9.5|[![GitHub stars](https://img.shields.io/github/stars/android10/Android-CleanArchitecture.svg?style=plastic&label=Star) ](https://github.com/android10/Android-CleanArchitecture)|
 
 ### 轮播
 |名字|版本|Star|
