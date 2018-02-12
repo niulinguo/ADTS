@@ -185,4 +185,4 @@ Android Developer Technology Stack
 ### 代码生成
 |名字|版本|Star|
 |--|--|--|
-|[google/auto](https://github.com/google/auto)|[![Maven Central](https://img.shields.io/maven-central/v/com.google.auto.value/auto-value.svg)](https://mvnrepository.com/artifact/com.google.auto.value/auto-value)|[GitHub stars](https://img.shields.io/github/stars/google/auto.svg?style=plastic&label=Star) ](https://github.com/google/auto)|
+|[google/auto](https://github.com/google/auto)|[![Maven Central](https://img.shields.io/maven-central/v/com.google.auto.value/auto-value.svg)](https://mvnrepository.com/artifact/com.google.auto.value/auto-value)|[GitHub stars](https://img.shields.io/github/stars/google/auto.svg?style=plastic&label=Star)](https://github.com/google/auto)|
