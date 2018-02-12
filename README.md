@@ -196,6 +196,7 @@ Android Developer Technology Stack
 |[YoKeyword/ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)||[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/ItemTouchHelperDemo.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/ItemTouchHelperDemo)|
 |[genius158/PullRefreshLayout](https://github.com/genius158/PullRefreshLayout)|v2.1.08|[![GitHub stars](https://img.shields.io/github/stars/genius158/PullRefreshLayout.svg?style=plastic&label=Star) ](https://github.com/genius158/PullRefreshLayout)|
 |[xmuSistone/VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)|v1.0.6|[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/VegaLayoutManager.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/VegaLayoutManager)|
+|[scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|v1.0.5.1|[![GitHub stars](https://img.shields.io/github/stars/scwang90/SmartRefreshLayout.svg?style=plastic&label=Star) ](https://github.com/scwang90/SmartRefreshLayout)|
 
 ### Loading
 |名字|版本|Star|
