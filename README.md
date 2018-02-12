@@ -20,6 +20,8 @@ Android Developer Technology Stack
 |[DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya)||[![GitHub stars](https://img.shields.io/github/stars/DreaminginCodeZH/Douya.svg?style=plastic&label=Star) ](https://github.com/DreaminginCodeZH/Douya)|
 |[naman14/Timber](https://github.com/naman14/Timber)||[![GitHub stars](https://img.shields.io/github/stars/naman14/Timber.svg?style=plastic&label=Star) ](https://github.com/naman14/Timber)|
 |[luqinmao/TomatoIt](https://github.com/luqinmao/TomatoIt)||[![GitHub stars](https://img.shields.io/github/stars/luqinmao/TomatoIt.svg?style=plastic&label=Star) ](https://github.com/luqinmao/TomatoIt)|
+|[jiahongfei/TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)||[![GitHub stars](https://img.shields.io/github/stars/jiahongfei/TodayStepCounter.svg?style=plastic&label=Star) ](https://github.com/jiahongfei/TodayStepCounter)|
+|[Horrarndoo/YiZhi](https://github.com/Horrarndoo/YiZhi)||[![GitHub stars](https://img.shields.io/github/stars/Horrarndoo/YiZhi.svg?style=plastic&label=Star) ](https://github.com/Horrarndoo/YiZhi)|
 
 ### 图片选择库
 |名字|版本|Star|
@@ -126,6 +128,7 @@ Android Developer Technology Stack
 |[facebook/stetho](https://github.com/facebook/stetho)|v1.5.0|[![GitHub stars](https://img.shields.io/github/stars/facebook/stetho.svg?style=plastic&label=Star) ](https://github.com/facebook/stetho)|
 |[square/leakcanary](https://github.com/square/leakcanary)|v1.5.4|[![GitHub stars](https://img.shields.io/github/stars/square/leakcanary.svg?style=plastic&label=Star) ](https://github.com/square/leakcanary)|
 |[ACRA/acra](https://github.com/ACRA/acra)|[![Maven Central](https://img.shields.io/maven-central/v/ch.acra/acra.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22ch.acra%22%20AND%20a%3A%22acra%22)|[![GitHub stars](https://img.shields.io/github/stars/ACRA/acra.svg?style=plastic&label=Star) ](https://github.com/ACRA/acra)|
+|[Kyson/AndroidGodEye](https://github.com/Kyson/AndroidGodEye/blob/master/README_zh.md)|<a href="https://jitpack.io/#Kyson/AndroidGodEye" target="_blank"><img src="https://jitpack.io/v/Kyson/AndroidGodEye.svg"></img></a>|[![GitHub stars](https://img.shields.io/github/stars/Kyson/AndroidGodEye.svg?style=plastic&label=Star) ](https://github.com/Kyson/AndroidGodEye)|
 
 ### Fragment框架
 |名字|版本|Star|
