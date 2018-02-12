@@ -22,6 +22,7 @@ Android Developer Technology Stack
 |[luqinmao/TomatoIt](https://github.com/luqinmao/TomatoIt)||[![GitHub stars](https://img.shields.io/github/stars/luqinmao/TomatoIt.svg?style=plastic&label=Star) ](https://github.com/luqinmao/TomatoIt)|
 |[jiahongfei/TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)||[![GitHub stars](https://img.shields.io/github/stars/jiahongfei/TodayStepCounter.svg?style=plastic&label=Star) ](https://github.com/jiahongfei/TodayStepCounter)|
 |[Horrarndoo/YiZhi](https://github.com/Horrarndoo/YiZhi)||[![GitHub stars](https://img.shields.io/github/stars/Horrarndoo/YiZhi.svg?style=plastic&label=Star) ](https://github.com/Horrarndoo/YiZhi)|
+|[wangzailfm/WanAndroidClient](https://github.com/wangzailfm/WanAndroidClient)||[![GitHub stars](https://img.shields.io/github/stars/wangzailfm/WanAndroidClient.svg?style=plastic&label=Star) ](https://github.com/wangzailfm/WanAndroidClient)|
 
 ### 图片选择库
 |名字|版本|Star|
