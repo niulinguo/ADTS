@@ -8,11 +8,6 @@ Android Developer Technology Stack
 * [JakeWharton/hugo](https://github.com/JakeWharton/hugo)
 * [JakeWharton/timber](https://github.com/JakeWharton/timber)
 
-### 网络框架
-* [square/okhttp](https://github.com/square/okhttp)
-* [square/retrofit](https://github.com/square/retrofit)
-* [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
-
 ### 数据库框架
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 * [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)
@@ -128,3 +123,10 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)|[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)|[![GitHub stars](https://img.shields.io/github/stars/chrisbanes/PhotoView.svg?style=plastic&label=Star) ](https://github.com/chrisbanes/PhotoView)|
+
+### 图片控件
+|名字|版本|Star|
+|--|--|--|
+|[square/okhttp](https://github.com/square/okhttp)|v3.9.1|[![GitHub stars](https://img.shields.io/github/stars/square/okhttp.svg?style=plastic&label=Star) ](https://github.com/square/okhttp)|
+|[square/retrofit](https://github.com/square/retrofit)|v2.3.0|[![GitHub stars](https://img.shields.io/github/stars/square/retrofit.svg?style=plastic&label=Star) ](https://github.com/square/retrofit)|
+|[jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)|[![](https://img.shields.io/badge/OkGo-v3.0.4-brightgreen.svg)](https://github.com/jeasonlzy/okhttp-OkGo)|[![GitHub stars](https://img.shields.io/github/stars/jeasonlzy/okhttp-OkGo.svg?style=plastic&label=Star) ](https://github.com/jeasonlzy/okhttp-OkGo)|
