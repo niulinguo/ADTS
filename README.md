@@ -3,10 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-### 函数式响应框架
-* [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
-* [google/agera](https://github.com/google/agera)
-
 ### App升级
 |名字|版本|Star|
 |--|--|--|
