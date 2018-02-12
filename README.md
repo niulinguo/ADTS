@@ -3,15 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-### 埋点统计框架
-* [mixpanel/mixpanel-android](https://github.com/mixpanel/mixpanel-android)
-
-### hybrid框架
-* [alibaba/weex](https://github.com/alibaba/weex)
-* [facebook/react-native](https://github.com/facebook/react-native)
-* [Tencent/VasSonic](https://github.com/Tencent/VasSonic)
-* [douban/rexxar-android](https://github.com/douban/rexxar-android)
-
 ### 函数式响应框架
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 * [google/agera](https://github.com/google/agera)
@@ -156,3 +147,11 @@ Android Developer Technology Stack
 |[apache/incubator-weex](https://github.com/apache/incubator-weex)|[![Download](https://api.bintray.com/packages/alibabaweex/maven/weex_sdk/images/download.svg)](https://bintray.com/alibabaweex/maven/weex_sdk/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/apache/incubator-weex.svg?style=plastic&label=Star) ](https://github.com/apache/incubator-weex)|
 |[facebook/react-native](https://github.com/facebook/react-native)|[![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)|[![GitHub stars](https://img.shields.io/github/stars/facebook/react-native.svg?style=plastic&label=Star) ](https://github.com/facebook/react-native)|
 |[Tencent/VasSonic](https://github.com/Tencent/VasSonic)|3.0.0-beta|[![GitHub stars](https://img.shields.io/github/stars/Tencent/VasSonic.svg?style=plastic&label=Star) ](https://github.com/Tencent/VasSonic)|
+|[douban/rexxar-android](https://github.com/douban/rexxar-android)|v0.3.8|[![GitHub stars](https://img.shields.io/github/stars/douban/rexxar-android.svg?style=plastic&label=Star) ](https://github.com/douban/rexxar-android)|
+
+### 响应式编程框架
+|名字|版本|Star|
+|--|--|--|
+|[google/agera](https://github.com/google/agera)|[![Download](https://api.bintray.com/packages/ernstsson/Agera/agera/images/download.svg)](https://bintray.com/ernstsson/Agera/agera/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/google/agera.svg?style=plastic&label=Star) ](https://github.com/google/agera)|
+|[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)|[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.reactivex.rxjava2/rxjava/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.reactivex.rxjava2/rxjava)|[![GitHub stars](https://img.shields.io/github/stars/ReactiveX/RxJava.svg?style=plastic&label=Star) ](https://github.com/ReactiveX/RxJava)|
+|[ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)|<a href='http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.reactivex.rxjava2%22%20a%3A%22rxandroid%22'><img src='http://img.shields.io/maven-central/v/io.reactivex.rxjava2/rxandroid.svg'></a>|[![GitHub stars](https://img.shields.io/github/stars/ReactiveX/RxAndroid.svg?style=plastic&label=Star) ](https://github.com/ReactiveX/RxAndroid)|
