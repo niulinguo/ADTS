@@ -3,14 +3,6 @@ Android Developer Technology Stack
 
 安卓开发技术栈
 
-
-
-### 插件化框架
-* [Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)
-* [wequick/Small](https://github.com/wequick/Small)
-* [didi/VirtualAPK](https://github.com/didi/VirtualAPK)
-* [DroidPluginTeam/DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
-
 ### 路由框架
 * [alibaba/ARouter](https://github.com/alibaba/ARouter)
 
@@ -156,3 +148,5 @@ Android Developer Technology Stack
 |--|--|--|
 |[Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)|[![Release Version](https://img.shields.io/badge/release-2.2.2-brightgreen.svg)](https://github.com/Qihoo360/RePlugin/wiki/%E5%8F%91%E8%A1%8C%E6%B3%A8%E8%AE%B0)|[![GitHub stars](https://img.shields.io/github/stars/Qihoo360/RePlugin.svg?style=plastic&label=Star) ](https://github.com/Qihoo360/RePlugin)|
 |[wequick/Small](https://github.com/wequick/Small)|v1.3.0-beta5|[![GitHub stars](https://img.shields.io/github/stars/wequick/Small.svg?style=plastic&label=Star) ](https://github.com/wequick/Small)|
+|[didi/VirtualAPK](https://github.com/didi/VirtualAPK)|[![Release Version](https://img.shields.io/badge/release-0.9.1-red.svg)](https://github.com/didi/VirtualAPK/releases)|[![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=plastic&label=Star) ](https://github.com/didi/VirtualAPK)|
+|[DroidPluginTeam/DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)|v0.9.1|[![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=plastic&label=Star) ](https://github.com/DroidPluginTeam/DroidPlugin)|
