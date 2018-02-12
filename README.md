@@ -158,3 +158,8 @@ Android Developer Technology Stack
 |[alibaba/Tangram-Android](https://github.com/alibaba/Tangram-Android)|v2.1.2|[![GitHub stars](https://img.shields.io/github/stars/alibaba/Tangram-Android.svg?style=plastic&label=Star) ](https://github.com/alibaba/Tangram-Android)|
 |[YoKeyword/IndexableRecyclerView](https://github.com/YoKeyword/IndexableRecyclerView)|v1.3.0|[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/IndexableRecyclerView.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/IndexableRecyclerView)|
 |[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|[![](https://jitpack.io/v/CymChad/BaseRecyclerViewAdapterHelper.svg)](https://jitpack.io/#CymChad/BaseRecyclerViewAdapterHelper)|[![GitHub stars](https://img.shields.io/github/stars/CymChad/BaseRecyclerViewAdapterHelper.svg?style=plastic&label=Star) ](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|
+
+### Loading
+|名字|版本|Star|
+|--|--|--|
+|[airbnb/lottie-android](https://github.com/airbnb/lottie-android)|v2.5.0-rc1|[![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-android.svg?style=plastic&label=Star) ](https://github.com/airbnb/lottie-android)|
