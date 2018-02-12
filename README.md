@@ -84,6 +84,7 @@ Android Developer Technology Stack
 |[square/okhttp](https://github.com/square/okhttp)|v3.9.1|[![GitHub stars](https://img.shields.io/github/stars/square/okhttp.svg?style=plastic&label=Star) ](https://github.com/square/okhttp)|
 |[square/retrofit](https://github.com/square/retrofit)|v2.3.0|[![GitHub stars](https://img.shields.io/github/stars/square/retrofit.svg?style=plastic&label=Star) ](https://github.com/square/retrofit)|
 |[jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)|[![](https://img.shields.io/badge/OkGo-v3.0.4-brightgreen.svg)](https://github.com/jeasonlzy/okhttp-OkGo)|[![GitHub stars](https://img.shields.io/github/stars/jeasonlzy/okhttp-OkGo.svg?style=plastic&label=Star) ](https://github.com/jeasonlzy/okhttp-OkGo)|
+|[lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader)|v1.7.1|[![GitHub stars](https://img.shields.io/github/stars/lingochamp/FileDownloader.svg?style=plastic&label=Star) ](https://github.com/lingochamp/FileDownloader)|
 
 ### 图片加载框架
 |名字|版本|Star|
