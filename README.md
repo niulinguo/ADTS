@@ -6,9 +6,6 @@ Android Developer Technology Stack
 ### 路由框架
 * [alibaba/ARouter](https://github.com/alibaba/ARouter)
 
-### 模块化框架
-* [alibaba/atlas](https://github.com/alibaba/atlas)
-
 ### Crash框架
 * [ACRA/acra](https://github.com/ACRA/acra)
 
@@ -31,9 +28,6 @@ Android Developer Technology Stack
 
 ### UI架构框架
 * [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
-
-### Fragment框架
-* [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)
 
 ### App升级
 |名字|版本|Star|
@@ -150,3 +144,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[facebook/stetho](https://github.com/facebook/stetho)|v1.5.0|[![GitHub stars](https://img.shields.io/github/stars/facebook/stetho.svg?style=plastic&label=Star) ](https://github.com/facebook/stetho)|
 |[square/leakcanary](https://github.com/square/leakcanary)|v1.5.4|[![GitHub stars](https://img.shields.io/github/stars/square/leakcanary.svg?style=plastic&label=Star) ](https://github.com/square/leakcanary)|
+
+### Fragment框架
+|名字|版本|Star|
+|--|--|--|
+|[YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)|[![Download](https://api.bintray.com/packages/yokeyword/maven/Fragmentation/images/download.svg) ](https://bintray.com/yokeyword/maven/Fragmentation/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/Fragmentation.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/Fragmentation)|
