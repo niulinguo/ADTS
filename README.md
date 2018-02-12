@@ -41,6 +41,8 @@ Android Developer Technology Stack
 |--|--|--|
 |[Bakumon/BulletinView](https://github.com/Bakumon/BulletinView)|[ ![Download](https://api.bintray.com/packages/bakumon/maven/bulletinview/images/download.svg) ](https://bintray.com/bakumon/maven/bulletinview/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/Bakumon/BulletinView.svg?style=plastic&label=Star) ](https://github.com/Bakumon/BulletinView)|
 |[pinguo-zhouwei/MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)|v2.0.0|[![GitHub stars](https://img.shields.io/github/stars/pinguo-zhouwei/MZBannerView.svg?style=plastic&label=Star) ](https://github.com/pinguo-zhouwei/MZBannerView)|
+|[sfsheng0322/MarqueeView](https://github.com/sfsheng0322/MarqueeView)|v1.3.3|[![GitHub stars](https://img.shields.io/github/stars/sfsheng0322/MarqueeView.svg?style=plastic&label=Star) ](https://github.com/sfsheng0322/MarqueeView)|
+|[youth5201314/banner](https://github.com/youth5201314/banner)|v1.4.10|[![GitHub stars](https://img.shields.io/github/stars/youth5201314/banner.svg?style=plastic&label=Star) ](https://github.com/youth5201314/banner)|
 
 ### Blur
 |名字|版本|Star|
