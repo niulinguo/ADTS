@@ -4,12 +4,6 @@ Android Developer Technology Stack
 安卓开发技术栈
 
 
-### 图片压缩
-* [Curzibn/Luban](https://github.com/Curzibn/Luban)
-
-### JSON解析框架
-* [google/gson](https://github.com/google/gson)
-* [alibaba/fastjson](https://github.com/alibaba/fastjson)
 
 ### 插件化框架
 * [Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)
@@ -151,3 +145,14 @@ Android Developer Technology Stack
 |[greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)|v3.2.2|[![GitHub stars](https://img.shields.io/github/stars/greenrobot/greenDAO.svg?style=plastic&label=Star) ](https://github.com/greenrobot/greenDAO)|
 |[objectbox/objectbox-java](https://github.com/objectbox/objectbox-java)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/objectbox/objectbox-java.svg?style=plastic&label=Star) ](https://github.com/objectbox/objectbox-java)|
 |[Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)|[![JitPack.io](https://img.shields.io/badge/JitPack.io-4.2.3-red.svg?style=flat)](https://jitpack.io/#Raizlabs/DBFlow)|[![GitHub stars](https://img.shields.io/github/stars/Raizlabs/DBFlow.svg?style=plastic&label=Star) ](https://github.com/Raizlabs/DBFlow)|
+
+### 图片压缩
+|名字|版本|Star|
+|--|--|--|
+|[Curzibn/Luban](https://github.com/Curzibn/Luban)|[ ![Download](https://api.bintray.com/packages/curzibn/maven/Luban/images/download.svg) ](https://bintray.com/curzibn/maven/Luban/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/Curzibn/Luban.svg?style=plastic&label=Star) ](https://github.com/Curzibn/Luban)|
+
+### 插件化框架
+|名字|版本|Star|
+|--|--|--|
+|[Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)|[![Release Version](https://img.shields.io/badge/release-2.2.2-brightgreen.svg)](https://github.com/Qihoo360/RePlugin/wiki/%E5%8F%91%E8%A1%8C%E6%B3%A8%E8%AE%B0)|[![GitHub stars](https://img.shields.io/github/stars/Qihoo360/RePlugin.svg?style=plastic&label=Star) ](https://github.com/Qihoo360/RePlugin)|
+|[wequick/Small](https://github.com/wequick/Small)|v1.3.0-beta5|[![GitHub stars](https://img.shields.io/github/stars/wequick/Small.svg?style=plastic&label=Star) ](https://github.com/wequick/Small)|
