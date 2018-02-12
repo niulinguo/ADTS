@@ -28,6 +28,7 @@ Android Developer Technology Stack
 |[qdrzwd/VideoRecorder](https://github.com/qdrzwd/VideoRecorder)||[![GitHub stars](https://img.shields.io/github/stars/qdrzwd/VideoRecorder.svg?style=plastic&label=Star) ](https://github.com/qdrzwd/VideoRecorder)|
 |[BolexLiu/ApkBusBlog](https://github.com/BolexLiu/ApkBusBlog)||[![GitHub stars](https://img.shields.io/github/stars/BolexLiu/ApkBusBlog.svg?style=plastic&label=Star) ](https://github.com/BolexLiu/ApkBusBlog)|
 |[xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather)||[![GitHub stars](https://img.shields.io/github/stars/xcc3641/SeeWeather.svg?style=plastic&label=Star) ](https://github.com/xcc3641/SeeWeather)|
+|[maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp)|v1.7.4|[![GitHub stars](https://img.shields.io/github/stars/maoruibin/TranslateApp.svg?style=plastic&label=Star) ](https://github.com/maoruibin/TranslateApp)|
 
 ### 图片选择库
 |名字|版本|Star|
@@ -289,3 +290,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[hongyangAndroid/FlowLayout](https://github.com/hongyangAndroid/FlowLayout)|v1.1.2|[![GitHub stars](https://img.shields.io/github/stars/hongyangAndroid/FlowLayout.svg?style=plastic&label=Star)](https://github.com/hongyangAndroid/FlowLayout)|
+
+### 引导框架
+|名字|版本|Star|
+|--|--|--|
+|[huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)|v1.2.3|[![GitHub stars](https://img.shields.io/github/stars/huburt-Hu/NewbieGuide.svg?style=plastic&label=Star)](https://github.com/huburt-Hu/NewbieGuide)|
