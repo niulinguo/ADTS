@@ -12,10 +12,6 @@ Android Developer Technology Stack
 ### 埋点统计框架
 * [mixpanel/mixpanel-android](https://github.com/mixpanel/mixpanel-android)
 
-### 事件总线框架
-* [greenrobot/EventBus](https://github.com/greenrobot/EventBus)
-* [square/otto](https://github.com/square/otto)
-
 ### hybrid框架
 * [alibaba/weex](https://github.com/alibaba/weex)
 * [facebook/react-native](https://github.com/facebook/react-native)
@@ -149,3 +145,9 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)|[![Download](https://api.bintray.com/packages/yokeyword/maven/Fragmentation/images/download.svg) ](https://bintray.com/yokeyword/maven/Fragmentation/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/YoKeyword/Fragmentation.svg?style=plastic&label=Star) ](https://github.com/YoKeyword/Fragmentation)|
+
+### 消息框架
+|名字|版本|Star|
+|--|--|--|
+|[greenrobot/EventBus](https://github.com/greenrobot/EventBus)|v3.1.1|[![GitHub stars](https://img.shields.io/github/stars/greenrobot/EventBus.svg?style=plastic&label=Star) ](https://github.com/greenrobot/EventBus)|
+|[square/otto](https://github.com/square/otto)|v1.3.8|[![GitHub stars](https://img.shields.io/github/stars/square/otto.svg?style=plastic&label=Star) ](https://github.com/square/otto)|
