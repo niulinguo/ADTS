@@ -115,3 +115,8 @@ Android Developer Technology Stack
 |名字|版本|Star|
 |--|--|--|
 |[Bakumon/BulletinView](https://github.com/Bakumon/BulletinView)|[ ![Download](https://api.bintray.com/packages/bakumon/maven/bulletinview/images/download.svg) ](https://bintray.com/bakumon/maven/bulletinview/_latestVersion)|[![GitHub stars](https://img.shields.io/github/stars/Bakumon/BulletinView.svg?style=plastic&label=Star) ](https://github.com/Bakumon/BulletinView)|
+
+### Blur
+|名字|版本|Star|
+|--|--|--|
+|[500px/500px-android-blur](https://github.com/500px/500px-android-blur)|v1.0.0|[![GitHub stars](https://img.shields.io/github/stars/500px/500px-android-blur.svg?style=plastic&label=Star) ](https://github.com/500px/500px-android-blur)|
