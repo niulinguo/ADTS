@@ -230,6 +230,7 @@ Android Developer Technology Stack
 |--|--|--|
 |[haodynasty/AndroidBleManager](https://github.com/haodynasty/AndroidBleManager)|v2.1.5|[![GitHub stars](https://img.shields.io/github/stars/haodynasty/AndroidBleManager.svg?style=plastic&label=Star)](https://github.com/haodynasty/AndroidBleManager)|
 |[dingjikerbo/BluetoothKit](https://github.com/dingjikerbo/BluetoothKit)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/dingjikerbo/BluetoothKit.svg?style=plastic&label=Star)](https://github.com/dingjikerbo/BluetoothKit)|
+|[AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)|v2.12.4|[![GitHub stars](https://img.shields.io/github/stars/AltBeacon/android-beacon-library.svg?style=plastic&label=Star)](https://github.com/AltBeacon/android-beacon-library)|
 
 ### MQTT
 |名字|版本|Star|
@@ -260,4 +261,5 @@ Android Developer Technology Stack
 
 ### 字体
 |名字|版本|Star|
+|--|--|--|
 |[JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)|v2.2.2|[![GitHub stars](https://img.shields.io/github/stars/JoanZapata/android-iconify.svg?style=plastic&label=Star)](https://github.com/JoanZapata/android-iconify)|
