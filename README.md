@@ -309,6 +309,7 @@
 |[huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)|v1.2.3|[![GitHub stars](https://img.shields.io/github/stars/huburt-Hu/NewbieGuide.svg?style=plastic&label=Star)](https://github.com/huburt-Hu/NewbieGuide)|
 |[KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)|v1.11.0|[![GitHub stars](https://img.shields.io/github/stars/KeepSafe/TapTargetView.svg?style=plastic&label=Star)](https://github.com/KeepSafe/TapTargetView)|
 |[hongyangAndroid/Highlight](https://github.com/hongyangAndroid/Highlight)|v1.8.0|[![GitHub stars](https://img.shields.io/github/stars/hongyangAndroid/Highlight.svg?style=plastic&label=Star)](https://github.com/hongyangAndroid/Highlight)|
+|[TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight)|v1.3.1|[![GitHub stars](https://img.shields.io/github/stars/TakuSemba/Spotlight.svg?style=plastic&label=Star)](https://github.com/TakuSemba/Spotlight)|
 
 ### 数字脚标
 |名字|版本|Star|
