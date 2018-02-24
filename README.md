@@ -214,6 +214,7 @@
 |[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|[![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#PhilJay/MPAndroidChart)|[![GitHub stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart.svg?style=plastic&label=Star) ](https://github.com/PhilJay/MPAndroidChart)|
 |[Cleveroad/AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout)|v1.1.1|[![GitHub stars](https://img.shields.io/github/stars/Cleveroad/AdaptiveTableLayout.svg?style=plastic&label=Star) ](https://github.com/Cleveroad/AdaptiveTableLayout)|
 |[Kelin-Hong/ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel)|v1.2.0|[![GitHub stars](https://img.shields.io/github/stars/Kelin-Hong/ScrollablePanel.svg?style=plastic&label=Star) ](https://github.com/Kelin-Hong/ScrollablePanel)|
+|[huangyanbin/smartTable](https://github.com/huangyanbin/smartTable)|v1.8.7|[![GitHub stars](https://img.shields.io/github/stars/huangyanbin/smartTable.svg?style=plastic&label=Star) ](https://github.com/huangyanbin/smartTable)|
 
 ### 图片裁剪
 |名字|版本|Star|
