@@ -156,6 +156,7 @@
 |[ACRA/acra](https://github.com/ACRA/acra)|[![Maven Central](https://img.shields.io/maven-central/v/ch.acra/acra.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22ch.acra%22%20AND%20a%3A%22acra%22)|[![GitHub stars](https://img.shields.io/github/stars/ACRA/acra.svg?style=plastic&label=Star) ](https://github.com/ACRA/acra)|
 |[Kyson/AndroidGodEye](https://github.com/Kyson/AndroidGodEye/blob/master/README_zh.md)|<a href="https://jitpack.io/#Kyson/AndroidGodEye" target="_blank"><img src="https://jitpack.io/v/Kyson/AndroidGodEye.svg"></img></a>|[![GitHub stars](https://img.shields.io/github/stars/Kyson/AndroidGodEye.svg?style=plastic&label=Star) ](https://github.com/Kyson/AndroidGodEye)|
 |[markzhai/AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)|v1.3.0|[![GitHub stars](https://img.shields.io/github/stars/markzhai/AndroidPerformanceMonitor.svg?style=plastic&label=Star) ](https://github.com/markzhai/AndroidPerformanceMonitor)|
+|[google/battery-historian](https://github.com/google/battery-historian)||[![GitHub stars](https://img.shields.io/github/stars/google/battery-historian.svg?style=plastic&label=Star) ](https://github.com/google/battery-historian)|
 
 ### Fragment框架
 |名字|版本|Star|
