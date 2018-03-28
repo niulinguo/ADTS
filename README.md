@@ -107,7 +107,7 @@
 |--|--|--|
 |[orhanobut/logger](https://github.com/orhanobut/logger)|v2.1.1|[![GitHub stars](https://img.shields.io/github/stars/orhanobut/logger.svg?style=plastic&label=Star) ](https://github.com/orhanobut/logger)|
 |[JakeWharton/hugo](https://github.com/JakeWharton/hugo)|v1.2.1|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/hugo.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/hugo)|
-|[JakeWharton/timber](https://github.com/JakeWharton/timber)|v4.6.0|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/timber.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/timber)|
+|[JakeWharton/timber](https://github.com/JakeWharton/timber)|v4.7.0|[![GitHub stars](https://img.shields.io/github/stars/JakeWharton/timber.svg?style=plastic&label=Star) ](https://github.com/JakeWharton/timber)|
 |[aliyun/aliyun-log-android-sdk](https://github.com/aliyun/aliyun-log-android-sdk)|v0.4.0|[![GitHub stars](https://img.shields.io/github/stars/aliyun/aliyun-log-android-sdk.svg?style=plastic&label=Star) ](https://github.com/aliyun/aliyun-log-android-sdk)|
 
 ### 热修复框架
