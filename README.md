@@ -100,7 +100,7 @@
 |[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|v1.13.1|[![GitHub stars](https://img.shields.io/github/stars/Blankj/AndroidUtilCode.svg?style=plastic&label=Star) ](https://github.com/Blankj/AndroidUtilCode)|
 |[wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)|v3.5.0|[![GitHub stars](https://img.shields.io/github/stars/wyouflf/xUtils3.svg?style=plastic&label=Star) ](https://github.com/wyouflf/xUtils3)|
 |[vondear/RxTools](https://github.com/vondear/RxTools)|[![RxTools](https://jitpack.io/v/vondear/RxTools.svg)](https://jitpack.io/#vondear/RxTools)|[![GitHub stars](https://img.shields.io/github/stars/vondear/RxTools.svg?style=plastic&label=Star) ](https://github.com/vondear/RxTools)|
-|[google/guava](https://github.com/google/guava)|24.0-android|[![GitHub stars](https://img.shields.io/github/stars/google/guava.svg?style=plastic&label=Star) ](https://github.com/google/guava)|
+|[google/guava](https://github.com/google/guava)|24.1-android|[![GitHub stars](https://img.shields.io/github/stars/google/guava.svg?style=plastic&label=Star) ](https://github.com/google/guava)|
 
 ### 日志框架
 |名字|版本|Star|
