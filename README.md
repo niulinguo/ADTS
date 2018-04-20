@@ -205,7 +205,7 @@
 ### Loading
 |名字|版本|Star|
 |--|--|--|
-|[airbnb/lottie-android](https://github.com/airbnb/lottie-android)|v2.5.0-rc1|[![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-android.svg?style=plastic&label=Star) ](https://github.com/airbnb/lottie-android)|
+|[airbnb/lottie-android](https://github.com/airbnb/lottie-android)|v2.5.4|[![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-android.svg?style=plastic&label=Star) ](https://github.com/airbnb/lottie-android)|
 |[KingJA/LoadSir](https://github.com/KingJA/LoadSir)|[![](https://img.shields.io/github/release/KingJA/LoadSir.svg)](https://github.com/KingJA/LoadSir/releases)|[![GitHub stars](https://img.shields.io/github/stars/KingJA/LoadSir.svg?style=plastic&label=Star) ](https://github.com/KingJA/LoadSir)|
 |[pnikosis/materialish-progress](https://github.com/pnikosis/materialish-progress)|v1.7|[![GitHub stars](https://img.shields.io/github/stars/pnikosis/materialish-progress.svg?style=plastic&label=Star) ](https://github.com/pnikosis/materialish-progress)|
 
