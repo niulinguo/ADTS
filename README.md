@@ -274,7 +274,7 @@
 |名字|版本|Star|
 |--|--|--|
 |[lovedise/PermissionGen](https://github.com/lovedise/PermissionGen)|v0.0.6|[![GitHub stars](https://img.shields.io/github/stars/lovedise/PermissionGen.svg?style=plastic&label=Star)](https://github.com/lovedise/PermissionGen)|
-|[permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)|v3.1.0|[![GitHub stars](https://img.shields.io/github/stars/permissions-dispatcher/PermissionsDispatcher.svg?style=plastic&label=Star)](https://github.com/permissions-dispatcher/PermissionsDispatcher)|
+|[permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)|v3.2.0|[![GitHub stars](https://img.shields.io/github/stars/permissions-dispatcher/PermissionsDispatcher.svg?style=plastic&label=Star)](https://github.com/permissions-dispatcher/PermissionsDispatcher)|
 |[jokermonn/permissions4m](https://github.com/jokermonn/permissions4m)|v2.1.2|[![GitHub stars](https://img.shields.io/github/stars/jokermonn/permissions4m.svg?style=plastic&label=Star)](https://github.com/jokermonn/permissions4m)|
 
 ### MVP
