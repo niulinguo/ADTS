@@ -55,7 +55,7 @@
 |[xmuSistone/ViewpagerTransition](https://github.com/xmuSistone/ViewpagerTransition)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/ViewpagerTransition.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/ViewpagerTransition)|
 |[xmuSistone/CardSlidePanel](https://github.com/xmuSistone/CardSlidePanel)||[![GitHub stars](https://img.shields.io/github/stars/xmuSistone/CardSlidePanel.svg?style=plastic&label=Star) ](https://github.com/xmuSistone/CardSlidePanel)|
 |[ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)|v1.2.32@aar|[![GitHub stars](https://img.shields.io/github/stars/ToxicBakery/ViewPagerTransforms.svg?style=plastic&label=Star) ](https://github.com/ToxicBakery/ViewPagerTransforms)|
-|[saiwu-bigkoo/Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)|v2.0.5|[![GitHub stars](https://img.shields.io/github/stars/saiwu-bigkoo/Android-ConvenientBanner.svg?style=plastic&label=Star) ](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)|
+|[saiwu-bigkoo/Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)|v2.0.6|[![GitHub stars](https://img.shields.io/github/stars/saiwu-bigkoo/Android-ConvenientBanner.svg?style=plastic&label=Star) ](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)|
 |[Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)|v1.0.5|[![GitHub stars](https://img.shields.io/github/stars/Cleveroad/FanLayoutManager.svg?style=plastic&label=Star) ](https://github.com/Cleveroad/FanLayoutManager)|
 
 ### Blur
