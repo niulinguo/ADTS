@@ -285,7 +285,7 @@
 ### 状态栏
 |名字|版本|Star|
 |--|--|--|
-|[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|v1.4.0|[![GitHub stars](https://img.shields.io/github/stars/laobie/StatusBarUtil.svg?style=plastic&label=Star)](https://github.com/laobie/StatusBarUtil)|
+|[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)|v1.5.1|[![GitHub stars](https://img.shields.io/github/stars/laobie/StatusBarUtil.svg?style=plastic&label=Star)](https://github.com/laobie/StatusBarUtil)|
 |[gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|v2.3.0|[![GitHub stars](https://img.shields.io/github/stars/gyf-dev/ImmersionBar.svg?style=plastic&label=Star)](https://github.com/gyf-dev/ImmersionBar)|
 |[niorgai/StatusBarCompat](https://github.com/niorgai/StatusBarCompat)|v2.1.4|[![GitHub stars](https://img.shields.io/github/stars/niorgai/StatusBarCompat.svg?style=plastic&label=Star)](https://github.com/niorgai/StatusBarCompat)|
 
